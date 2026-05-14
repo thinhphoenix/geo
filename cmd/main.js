@@ -181,15 +181,19 @@ function loadLanguage(locale) {
   });
 }
 
-const out = {};
+const outArr = [];
+const outMap = {};
 for (const c of countries) {
   const code = c.cca2.toLowerCase();
-  out[code] = {
+  const entry = {
+    code,
     flag: `https://flagcdn.com/${code}.svg`,
     name: {},
     lang: {},
     phone: "",
   };
+  outMap[code] = entry;
+  outArr.push(entry);
 
   // Lấy tên quốc gia theo từng locale
   for (const loc of locales) {
@@ -198,7 +202,7 @@ for (const c of countries) {
       const territory = mod.default.main[loc].localeDisplayNames.territories;
       const alpha2 = c.cca2.toUpperCase();
       if (territory[alpha2]) {
-        out[code].name[loc] = territory[alpha2];
+        entry.name[loc] = territory[alpha2];
       }
     } catch {
       // skip nếu locale chưa có
@@ -207,51 +211,48 @@ for (const c of countries) {
 
   // Thêm field native cho name (key luôn lowercase, ưu tiên common)
   if (c.name && c.name.native) {
-    out[code].name.native = {};
+    entry.name.native = {};
     for (const [lang, val] of Object.entries(c.name.native)) {
-      const key = (langCodeMap[lang] || lang).toLowerCase(); // ✅ chuẩn hóa luôn
-      if (val.common) out[code].name.native[key] = val.common;
-      else if (val.official) out[code].name.native[key] = val.official;
+      const key = (langCodeMap[lang] || lang).toLowerCase();
+      if (val.common) entry.name.native[key] = val.common;
+      else if (val.official) entry.name.native[key] = val.official;
     }
   }
 
   // Lấy languages chính thức (đa ngôn ngữ)
   if (c.languages) {
-    out[code].lang = {};
+    entry.lang = {};
     for (const [langCode, nativeName] of Object.entries(c.languages)) {
-      // map ISO639-3 -> ISO639-1 nếu có
       const cldrCode = langCodeMap[langCode] || langCode;
-      const langKey = cldrCode.toLowerCase(); // ✅ chuẩn hóa key về ISO639-1 nếu có
+      const langKey = cldrCode.toLowerCase();
 
-      out[code].lang[langKey] = {};
+      entry.lang[langKey] = {};
 
       for (const loc of locales) {
         try {
           const mod = await loadLanguage(loc);
           const langs = mod.default.main[loc].localeDisplayNames.languages;
           if (langs[langKey]) {
-            out[code].lang[langKey][loc] = langs[langKey];
+            entry.lang[langKey][loc] = langs[langKey];
           }
         } catch {
           // skip nếu locale chưa có
         }
       }
 
-      // Thêm field native cho lang
-      out[code].lang[langKey].native = {};
+      entry.lang[langKey].native = {};
       if (langKey === "vi") {
-        // Ưu tiên CLDR "Tiếng Việt"
-        out[code].lang[langKey].native[langKey] =
-          out[code].lang[langKey]["vi"] || "Tiếng Việt";
+        entry.lang[langKey].native[langKey] =
+          entry.lang[langKey]["vi"] || "Tiếng Việt";
       } else if (c.name && c.name.native && c.name.native[langCode]) {
         if (c.name.native[langCode].common)
-          out[code].lang[langKey].native[langKey] =
+          entry.lang[langKey].native[langKey] =
             c.name.native[langCode].common;
         else if (c.name.native[langCode].official)
-          out[code].lang[langKey].native[langKey] =
+          entry.lang[langKey].native[langKey] =
             c.name.native[langCode].official;
       } else {
-        out[code].lang[langKey].native[langKey] = nativeName;
+        entry.lang[langKey].native[langKey] = nativeName;
       }
     }
   }
@@ -259,22 +260,22 @@ for (const c of countries) {
   // Mã quốc gia
   if (c.idd) {
     const { root, suffixes } = c.idd;
-    out[code].phone = suffixes.length === 1 ? `${root}${suffixes[0]}` : root;
+    entry.phone = suffixes.length === 1 ? `${root}${suffixes[0]}` : root;
   }
 }
 
 // Xuất từng country thành file JSON riêng (cho jsDelivr)
 const JSON_DIR = path.join(OUT_DIR, "json");
 await fs.promises.mkdir(JSON_DIR, { recursive: true });
-for (const [code, data] of Object.entries(out)) {
-  const filePath = path.join(JSON_DIR, `${code}.json`);
-  const payload = JSON.stringify({ data, message: "success", status: 200 }, null, 2);
+for (const entry of outArr) {
+  const filePath = path.join(JSON_DIR, `${entry.code}.json`);
+  const payload = JSON.stringify({ data: entry, message: "success", status: 200 }, null, 2);
   await fs.promises.writeFile(filePath, payload, "utf8");
 }
 
 // Xuất all.json (tất cả countries)
 const ALL_JSON = path.join(JSON_DIR, "all.json");
-const allPayload = JSON.stringify({ data: out, message: "success", status: 200 }, null, 2);
+const allPayload = JSON.stringify({ data: outArr, message: "success", status: 200 }, null, 2);
 await fs.promises.writeFile(ALL_JSON, allPayload, "utf8");
 
 // Xuất all (không đuôi, ở root out/)
@@ -282,10 +283,9 @@ const ALL_ROOT = path.join(OUT_DIR, "all");
 await fs.promises.writeFile(ALL_ROOT, allPayload, "utf8");
 
 // Xuất từng country ra out/ không đuôi
-for (const [code, data] of Object.entries(out)) {
-  const fullPayload = JSON.stringify({ data, message: "success", status: 200 }, null, 2);
-  await fs.promises.writeFile(path.join(OUT_DIR, code), fullPayload, "utf8");
+for (const entry of outArr) {
+  const fullPayload = JSON.stringify({ data: entry, message: "success", status: 200 }, null, 2);
+  await fs.promises.writeFile(path.join(OUT_DIR, entry.code), fullPayload, "utf8");
 }
 
-const countryCount = Object.keys(out).length;
-console.log(`Generated ${countryCount} countries in out/ and out/json/`);
+console.log(`Generated ${outArr.length} countries in out/ and out/json/`);

@@ -7,35 +7,32 @@ const { data: countries } = JSON.parse(readFileSync(new URL("./out/all", import.
 new Elysia()
   .use(cors())
   .get("/", ({ query }) => {
-    const { q, loc, native } = query;
-    if (!q) return countries;
-    const fields = q.split(",").map((f) => f.trim());
-    let entries = Object.entries(countries);
+    const { q, loc } = query;
+    let result = countries;
 
-    // Nếu có loc, chỉ lấy quốc gia tương ứng
     if (loc) {
       const code = loc.toLowerCase();
-      entries = entries.filter(([c]) => c === code);
+      result = result.filter((c) => c.code === code);
     }
 
-    const filtered = {};
-    for (const [code, data] of entries) {
-      filtered[code] = {};
-      for (const field of fields) {
-        if (data[field] !== undefined) {
-          if (typeof data[field] === "object" && loc) {
-            if (data[field][loc]) {
-              filtered[code][field] = data[field][loc];
+    if (q) {
+      const fields = q.split(",").map((f) => f.trim());
+      result = result.map((entry) => {
+        const picked = { code: entry.code };
+        for (const field of fields) {
+          if (entry[field] !== undefined) {
+            if (typeof entry[field] === "object" && loc) {
+              picked[field] = entry[field][loc] ?? entry[field];
             } else {
-              filtered[code][field] = data[field];
+              picked[field] = entry[field];
             }
-          } else {
-            filtered[code][field] = data[field];
           }
         }
-      }
+        return picked;
+      });
     }
-    return filtered;
+
+    return result;
   })
   .get("/ping", () => ({ message: "pong" }))
   .listen(3000);

@@ -1,6 +1,7 @@
 {
-  "data": {
-    "aw": {
+  "data": [
+    {
+      "code": "aw",
       "flag": "https://flagcdn.com/aw.svg",
       "name": {
         "af": "Aruba",
@@ -253,7 +254,8 @@
       },
       "phone": "+297"
     },
-    "af": {
+    {
+      "code": "af",
       "flag": "https://flagcdn.com/af.svg",
       "name": {
         "af": "Afganistan",
@@ -435,7 +437,8 @@
       },
       "phone": "+93"
     },
-    "ao": {
+    {
+      "code": "ao",
       "flag": "https://flagcdn.com/ao.svg",
       "name": {
         "af": "Angola",
@@ -605,7 +608,8 @@
       },
       "phone": "+244"
     },
-    "ai": {
+    {
+      "code": "ai",
       "flag": "https://flagcdn.com/ai.svg",
       "name": {
         "af": "Anguilla",
@@ -775,7 +779,8 @@
       },
       "phone": "+1264"
     },
-    "ax": {
+    {
+      "code": "ax",
       "flag": "https://flagcdn.com/ax.svg",
       "name": {
         "af": "Ålandeilande",
@@ -945,7 +950,8 @@
       },
       "phone": "+35818"
     },
-    "al": {
+    {
+      "code": "al",
       "flag": "https://flagcdn.com/al.svg",
       "name": {
         "af": "Albanië",
@@ -1115,7 +1121,8 @@
       },
       "phone": "+355"
     },
-    "ad": {
+    {
+      "code": "ad",
       "flag": "https://flagcdn.com/ad.svg",
       "name": {
         "af": "Andorra",
@@ -1285,7 +1292,8 @@
       },
       "phone": "+376"
     },
-    "ae": {
+    {
+      "code": "ae",
       "flag": "https://flagcdn.com/ae.svg",
       "name": {
         "af": "Verenigde Arabiese Emirate",
@@ -1455,7 +1463,8 @@
       },
       "phone": "+971"
     },
-    "ar": {
+    {
+      "code": "ar",
       "flag": "https://flagcdn.com/ar.svg",
       "name": {
         "af": "Argentinië",
@@ -1631,7 +1640,8 @@
       },
       "phone": "+54"
     },
-    "am": {
+    {
+      "code": "am",
       "flag": "https://flagcdn.com/am.svg",
       "name": {
         "af": "Armenië",
@@ -1801,7 +1811,8 @@
       },
       "phone": "+374"
     },
-    "as": {
+    {
+      "code": "as",
       "flag": "https://flagcdn.com/as.svg",
       "name": {
         "af": "Amerikaanse Samoa",
@@ -1977,7 +1988,8 @@
       },
       "phone": "+1684"
     },
-    "aq": {
+    {
+      "code": "aq",
       "flag": "https://flagcdn.com/aq.svg",
       "name": {
         "af": "Antarktika",
@@ -2062,7 +2074,8 @@
       "lang": {},
       "phone": ""
     },
-    "tf": {
+    {
+      "code": "tf",
       "flag": "https://flagcdn.com/tf.svg",
       "name": {
         "af": "Franse Suidelike Gebiede",
@@ -2232,7 +2245,8 @@
       },
       "phone": "+262"
     },
-    "ag": {
+    {
+      "code": "ag",
       "flag": "https://flagcdn.com/ag.svg",
       "name": {
         "af": "Antigua en Barbuda",
@@ -2402,7 +2416,8 @@
       },
       "phone": "+1268"
     },
-    "au": {
+    {
+      "code": "au",
       "flag": "https://flagcdn.com/au.svg",
       "name": {
         "af": "Australië",
@@ -2572,7 +2587,8 @@
       },
       "phone": "+61"
     },
-    "at": {
+    {
+      "code": "at",
       "flag": "https://flagcdn.com/at.svg",
       "name": {
         "af": "Oostenryk",
@@ -2690,7 +2706,8 @@
       },
       "phone": "+43"
     },
-    "az": {
+    {
+      "code": "az",
       "flag": "https://flagcdn.com/az.svg",
       "name": {
         "af": "Azerbeidjan",
@@ -2943,7 +2960,8 @@
       },
       "phone": "+994"
     },
-    "bi": {
+    {
+      "code": "bi",
       "flag": "https://flagcdn.com/bi.svg",
       "name": {
         "af": "Burundi",
@@ -3119,7 +3137,8 @@
       },
       "phone": "+257"
     },
-    "be": {
+    {
+      "code": "be",
       "flag": "https://flagcdn.com/be.svg",
       "name": {
         "af": "België",
@@ -3455,7 +3474,8 @@
       },
       "phone": "+32"
     },
-    "bj": {
+    {
+      "code": "bj",
       "flag": "https://flagcdn.com/bj.svg",
       "name": {
         "af": "Benin",
@@ -3625,7 +3645,8 @@
       },
       "phone": "+229"
     },
-    "bf": {
+    {
+      "code": "bf",
       "flag": "https://flagcdn.com/bf.svg",
       "name": {
         "af": "Burkina Faso",
@@ -3795,7 +3816,8 @@
       },
       "phone": "+226"
     },
-    "bd": {
+    {
+      "code": "bd",
       "flag": "https://flagcdn.com/bd.svg",
       "name": {
         "af": "Bangladesj",
@@ -3965,7 +3987,8 @@
       },
       "phone": "+880"
     },
-    "bg": {
+    {
+      "code": "bg",
       "flag": "https://flagcdn.com/bg.svg",
       "name": {
         "af": "Bulgarye",
@@ -4135,7 +4158,8 @@
       },
       "phone": "+359"
     },
-    "bh": {
+    {
+      "code": "bh",
       "flag": "https://flagcdn.com/bh.svg",
       "name": {
         "af": "Bahrein",
@@ -4305,7 +4329,8 @@
       },
       "phone": "+973"
     },
-    "bs": {
+    {
+      "code": "bs",
       "flag": "https://flagcdn.com/bs.svg",
       "name": {
         "af": "Bahamas",
@@ -4475,7 +4500,8 @@
       },
       "phone": "+1242"
     },
-    "ba": {
+    {
+      "code": "ba",
       "flag": "https://flagcdn.com/ba.svg",
       "name": {
         "af": "Bosnië en Herzegowina",
@@ -4811,7 +4837,8 @@
       },
       "phone": "+387"
     },
-    "bl": {
+    {
+      "code": "bl",
       "flag": "https://flagcdn.com/bl.svg",
       "name": {
         "af": "Sint Barthélemy",
@@ -4981,7 +5008,8 @@
       },
       "phone": "+590"
     },
-    "sh": {
+    {
+      "code": "sh",
       "flag": "https://flagcdn.com/sh.svg",
       "name": {
         "af": "Sint Helena",
@@ -5151,7 +5179,8 @@
       },
       "phone": "+2"
     },
-    "by": {
+    {
+      "code": "by",
       "flag": "https://flagcdn.com/by.svg",
       "name": {
         "af": "Belarus",
@@ -5404,7 +5433,8 @@
       },
       "phone": "+375"
     },
-    "bz": {
+    {
+      "code": "bz",
       "flag": "https://flagcdn.com/bz.svg",
       "name": {
         "af": "Belize",
@@ -5663,7 +5693,8 @@
       },
       "phone": "+501"
     },
-    "bm": {
+    {
+      "code": "bm",
       "flag": "https://flagcdn.com/bm.svg",
       "name": {
         "af": "Bermuda",
@@ -5833,7 +5864,8 @@
       },
       "phone": "+1441"
     },
-    "bo": {
+    {
+      "code": "bo",
       "flag": "https://flagcdn.com/bo.svg",
       "name": {
         "af": "Bolivië",
@@ -6021,7 +6053,8 @@
       },
       "phone": "+591"
     },
-    "bq": {
+    {
+      "code": "bq",
       "flag": "https://flagcdn.com/bq.svg",
       "name": {
         "af": "Karibiese Nederland",
@@ -6356,7 +6389,8 @@
       },
       "phone": "+599"
     },
-    "br": {
+    {
+      "code": "br",
       "flag": "https://flagcdn.com/br.svg",
       "name": {
         "af": "Brasilië",
@@ -6526,7 +6560,8 @@
       },
       "phone": "+55"
     },
-    "bb": {
+    {
+      "code": "bb",
       "flag": "https://flagcdn.com/bb.svg",
       "name": {
         "af": "Barbados",
@@ -6696,7 +6731,8 @@
       },
       "phone": "+1246"
     },
-    "bn": {
+    {
+      "code": "bn",
       "flag": "https://flagcdn.com/bn.svg",
       "name": {
         "af": "Broenei",
@@ -6866,7 +6902,8 @@
       },
       "phone": "+673"
     },
-    "bt": {
+    {
+      "code": "bt",
       "flag": "https://flagcdn.com/bt.svg",
       "name": {
         "af": "Bhoetan",
@@ -6959,7 +6996,8 @@
       },
       "phone": "+975"
     },
-    "bv": {
+    {
+      "code": "bv",
       "flag": "https://flagcdn.com/bv.svg",
       "name": {
         "af": "Bouvet-eiland",
@@ -7129,7 +7167,8 @@
       },
       "phone": "+47"
     },
-    "bw": {
+    {
+      "code": "bw",
       "flag": "https://flagcdn.com/bw.svg",
       "name": {
         "af": "Botswana",
@@ -7305,7 +7344,8 @@
       },
       "phone": "+267"
     },
-    "cf": {
+    {
+      "code": "cf",
       "flag": "https://flagcdn.com/cf.svg",
       "name": {
         "af": "Sentraal-Afrikaanse Republiek",
@@ -7481,7 +7521,8 @@
       },
       "phone": "+236"
     },
-    "ca": {
+    {
+      "code": "ca",
       "flag": "https://flagcdn.com/ca.svg",
       "name": {
         "af": "Kanada",
@@ -7734,7 +7775,8 @@
       },
       "phone": "+1"
     },
-    "cc": {
+    {
+      "code": "cc",
       "flag": "https://flagcdn.com/cc.svg",
       "name": {
         "af": "Kokoseilande",
@@ -7904,7 +7946,8 @@
       },
       "phone": "+61"
     },
-    "ch": {
+    {
+      "code": "ch",
       "flag": "https://flagcdn.com/ch.svg",
       "name": {
         "af": "Switserland",
@@ -8246,7 +8289,8 @@
       },
       "phone": "+41"
     },
-    "cl": {
+    {
+      "code": "cl",
       "flag": "https://flagcdn.com/cl.svg",
       "name": {
         "af": "Chili",
@@ -8416,7 +8460,8 @@
       },
       "phone": "+56"
     },
-    "cn": {
+    {
+      "code": "cn",
       "flag": "https://flagcdn.com/cn.svg",
       "name": {
         "af": "China",
@@ -8586,7 +8631,8 @@
       },
       "phone": "+86"
     },
-    "ci": {
+    {
+      "code": "ci",
       "flag": "https://flagcdn.com/ci.svg",
       "name": {
         "af": "Ivoorkus",
@@ -8756,7 +8802,8 @@
       },
       "phone": "+225"
     },
-    "cm": {
+    {
+      "code": "cm",
       "flag": "https://flagcdn.com/cm.svg",
       "name": {
         "af": "Kameroen",
@@ -9009,7 +9056,8 @@
       },
       "phone": "+237"
     },
-    "cd": {
+    {
+      "code": "cd",
       "flag": "https://flagcdn.com/cd.svg",
       "name": {
         "af": "Demokratiese Republiek van die Kongo",
@@ -9357,7 +9405,8 @@
       },
       "phone": "+243"
     },
-    "cg": {
+    {
+      "code": "cg",
       "flag": "https://flagcdn.com/cg.svg",
       "name": {
         "af": "Kongo-Brazzaville",
@@ -9539,7 +9588,8 @@
       },
       "phone": "+242"
     },
-    "ck": {
+    {
+      "code": "ck",
       "flag": "https://flagcdn.com/ck.svg",
       "name": {
         "af": "Cookeilande",
@@ -9792,7 +9842,8 @@
       },
       "phone": "+682"
     },
-    "co": {
+    {
+      "code": "co",
       "flag": "https://flagcdn.com/co.svg",
       "name": {
         "af": "Colombië",
@@ -9962,7 +10013,8 @@
       },
       "phone": "+57"
     },
-    "km": {
+    {
+      "code": "km",
       "flag": "https://flagcdn.com/km.svg",
       "name": {
         "af": "Comore",
@@ -10221,7 +10273,8 @@
       },
       "phone": "+269"
     },
-    "cv": {
+    {
+      "code": "cv",
       "flag": "https://flagcdn.com/cv.svg",
       "name": {
         "af": "Kaap Verde",
@@ -10391,7 +10444,8 @@
       },
       "phone": "+238"
     },
-    "cr": {
+    {
+      "code": "cr",
       "flag": "https://flagcdn.com/cr.svg",
       "name": {
         "af": "Costa Rica",
@@ -10561,7 +10615,8 @@
       },
       "phone": "+506"
     },
-    "cu": {
+    {
+      "code": "cu",
       "flag": "https://flagcdn.com/cu.svg",
       "name": {
         "af": "Kuba",
@@ -10731,7 +10786,8 @@
       },
       "phone": "+53"
     },
-    "cw": {
+    {
+      "code": "cw",
       "flag": "https://flagcdn.com/cw.svg",
       "name": {
         "af": "Curaçao",
@@ -11067,7 +11123,8 @@
       },
       "phone": "+599"
     },
-    "cx": {
+    {
+      "code": "cx",
       "flag": "https://flagcdn.com/cx.svg",
       "name": {
         "af": "Kerseiland",
@@ -11237,7 +11294,8 @@
       },
       "phone": "+61"
     },
-    "ky": {
+    {
+      "code": "ky",
       "flag": "https://flagcdn.com/ky.svg",
       "name": {
         "af": "Kaaimanseilande",
@@ -11407,7 +11465,8 @@
       },
       "phone": "+1345"
     },
-    "cy": {
+    {
+      "code": "cy",
       "flag": "https://flagcdn.com/cy.svg",
       "name": {
         "af": "Siprus",
@@ -11660,7 +11719,8 @@
       },
       "phone": "+357"
     },
-    "cz": {
+    {
+      "code": "cz",
       "flag": "https://flagcdn.com/cz.svg",
       "name": {
         "af": "Tsjeggië",
@@ -11913,7 +11973,8 @@
       },
       "phone": "+420"
     },
-    "de": {
+    {
+      "code": "de",
       "flag": "https://flagcdn.com/de.svg",
       "name": {
         "af": "Duitsland",
@@ -12083,7 +12144,8 @@
       },
       "phone": "+49"
     },
-    "dj": {
+    {
+      "code": "dj",
       "flag": "https://flagcdn.com/dj.svg",
       "name": {
         "af": "Djiboeti",
@@ -12336,7 +12398,8 @@
       },
       "phone": "+253"
     },
-    "dm": {
+    {
+      "code": "dm",
       "flag": "https://flagcdn.com/dm.svg",
       "name": {
         "af": "Dominica",
@@ -12506,7 +12569,8 @@
       },
       "phone": "+1767"
     },
-    "dk": {
+    {
+      "code": "dk",
       "flag": "https://flagcdn.com/dk.svg",
       "name": {
         "af": "Denemarke",
@@ -12676,7 +12740,8 @@
       },
       "phone": "+45"
     },
-    "do": {
+    {
+      "code": "do",
       "flag": "https://flagcdn.com/do.svg",
       "name": {
         "af": "Dominikaanse Republiek",
@@ -12846,7 +12911,8 @@
       },
       "phone": "+1"
     },
-    "dz": {
+    {
+      "code": "dz",
       "flag": "https://flagcdn.com/dz.svg",
       "name": {
         "af": "Algerië",
@@ -13016,7 +13082,8 @@
       },
       "phone": "+213"
     },
-    "ec": {
+    {
+      "code": "ec",
       "flag": "https://flagcdn.com/ec.svg",
       "name": {
         "af": "Ecuador",
@@ -13186,7 +13253,8 @@
       },
       "phone": "+593"
     },
-    "eg": {
+    {
+      "code": "eg",
       "flag": "https://flagcdn.com/eg.svg",
       "name": {
         "af": "Egipte",
@@ -13356,7 +13424,8 @@
       },
       "phone": "+20"
     },
-    "er": {
+    {
+      "code": "er",
       "flag": "https://flagcdn.com/er.svg",
       "name": {
         "af": "Eritrea",
@@ -13615,7 +13684,8 @@
       },
       "phone": "+291"
     },
-    "eh": {
+    {
+      "code": "eh",
       "flag": "https://flagcdn.com/eh.svg",
       "name": {
         "af": "Wes-Sahara",
@@ -13797,7 +13867,8 @@
       },
       "phone": "+2"
     },
-    "es": {
+    {
+      "code": "es",
       "flag": "https://flagcdn.com/es.svg",
       "name": {
         "af": "Spanje",
@@ -13967,7 +14038,8 @@
       },
       "phone": "+34"
     },
-    "ee": {
+    {
+      "code": "ee",
       "flag": "https://flagcdn.com/ee.svg",
       "name": {
         "af": "Estland",
@@ -14137,7 +14209,8 @@
       },
       "phone": "+372"
     },
-    "et": {
+    {
+      "code": "et",
       "flag": "https://flagcdn.com/et.svg",
       "name": {
         "af": "Ethiopië",
@@ -14307,7 +14380,8 @@
       },
       "phone": "+251"
     },
-    "fi": {
+    {
+      "code": "fi",
       "flag": "https://flagcdn.com/fi.svg",
       "name": {
         "af": "Finland",
@@ -14560,7 +14634,8 @@
       },
       "phone": "+358"
     },
-    "fj": {
+    {
+      "code": "fj",
       "flag": "https://flagcdn.com/fj.svg",
       "name": {
         "af": "Fidji",
@@ -14768,7 +14843,8 @@
       },
       "phone": "+679"
     },
-    "fk": {
+    {
+      "code": "fk",
       "flag": "https://flagcdn.com/fk.svg",
       "name": {
         "af": "Falklandeilande",
@@ -14938,7 +15014,8 @@
       },
       "phone": "+500"
     },
-    "fr": {
+    {
+      "code": "fr",
       "flag": "https://flagcdn.com/fr.svg",
       "name": {
         "af": "Frankryk",
@@ -15108,7 +15185,8 @@
       },
       "phone": "+33"
     },
-    "fo": {
+    {
+      "code": "fo",
       "flag": "https://flagcdn.com/fo.svg",
       "name": {
         "af": "Faroëreilande",
@@ -15284,7 +15362,8 @@
       },
       "phone": "+298"
     },
-    "fm": {
+    {
+      "code": "fm",
       "flag": "https://flagcdn.com/fm.svg",
       "name": {
         "af": "Mikronesië",
@@ -15454,7 +15533,8 @@
       },
       "phone": "+691"
     },
-    "ga": {
+    {
+      "code": "ga",
       "flag": "https://flagcdn.com/ga.svg",
       "name": {
         "af": "Gaboen",
@@ -15624,7 +15704,8 @@
       },
       "phone": "+241"
     },
-    "gb": {
+    {
+      "code": "gb",
       "flag": "https://flagcdn.com/gb.svg",
       "name": {
         "af": "Verenigde Koninkryk",
@@ -15794,7 +15875,8 @@
       },
       "phone": "+44"
     },
-    "ge": {
+    {
+      "code": "ge",
       "flag": "https://flagcdn.com/ge.svg",
       "name": {
         "af": "Georgië",
@@ -15964,7 +16046,8 @@
       },
       "phone": "+995"
     },
-    "gg": {
+    {
+      "code": "gg",
       "flag": "https://flagcdn.com/gg.svg",
       "name": {
         "af": "Guernsey",
@@ -16223,7 +16306,8 @@
       },
       "phone": "+44"
     },
-    "gh": {
+    {
+      "code": "gh",
       "flag": "https://flagcdn.com/gh.svg",
       "name": {
         "af": "Ghana",
@@ -16393,7 +16477,8 @@
       },
       "phone": "+233"
     },
-    "gi": {
+    {
+      "code": "gi",
       "flag": "https://flagcdn.com/gi.svg",
       "name": {
         "af": "Gibraltar",
@@ -16563,7 +16648,8 @@
       },
       "phone": "+350"
     },
-    "gn": {
+    {
+      "code": "gn",
       "flag": "https://flagcdn.com/gn.svg",
       "name": {
         "af": "Guinee",
@@ -16733,7 +16819,8 @@
       },
       "phone": "+224"
     },
-    "gp": {
+    {
+      "code": "gp",
       "flag": "https://flagcdn.com/gp.svg",
       "name": {
         "af": "Guadeloupe",
@@ -16903,7 +16990,8 @@
       },
       "phone": "+590"
     },
-    "gm": {
+    {
+      "code": "gm",
       "flag": "https://flagcdn.com/gm.svg",
       "name": {
         "af": "Gambië",
@@ -17073,7 +17161,8 @@
       },
       "phone": "+220"
     },
-    "gw": {
+    {
+      "code": "gw",
       "flag": "https://flagcdn.com/gw.svg",
       "name": {
         "af": "Guinee-Bissau",
@@ -17249,7 +17338,8 @@
       },
       "phone": "+245"
     },
-    "gq": {
+    {
+      "code": "gq",
       "flag": "https://flagcdn.com/gq.svg",
       "name": {
         "af": "Ekwatoriaal-Guinee",
@@ -17585,7 +17675,8 @@
       },
       "phone": "+240"
     },
-    "gr": {
+    {
+      "code": "gr",
       "flag": "https://flagcdn.com/gr.svg",
       "name": {
         "af": "Griekeland",
@@ -17755,7 +17846,8 @@
       },
       "phone": "+30"
     },
-    "gd": {
+    {
+      "code": "gd",
       "flag": "https://flagcdn.com/gd.svg",
       "name": {
         "af": "Grenada",
@@ -17925,7 +18017,8 @@
       },
       "phone": "+1473"
     },
-    "gl": {
+    {
+      "code": "gl",
       "flag": "https://flagcdn.com/gl.svg",
       "name": {
         "af": "Groenland",
@@ -18018,7 +18111,8 @@
       },
       "phone": "+299"
     },
-    "gt": {
+    {
+      "code": "gt",
       "flag": "https://flagcdn.com/gt.svg",
       "name": {
         "af": "Guatemala",
@@ -18188,7 +18282,8 @@
       },
       "phone": "+502"
     },
-    "gf": {
+    {
+      "code": "gf",
       "flag": "https://flagcdn.com/gf.svg",
       "name": {
         "af": "Frans-Guyana",
@@ -18358,7 +18453,8 @@
       },
       "phone": "+594"
     },
-    "gu": {
+    {
+      "code": "gu",
       "flag": "https://flagcdn.com/gu.svg",
       "name": {
         "af": "Guam",
@@ -18617,7 +18713,8 @@
       },
       "phone": "+1671"
     },
-    "gy": {
+    {
+      "code": "gy",
       "flag": "https://flagcdn.com/gy.svg",
       "name": {
         "af": "Guyana",
@@ -18787,7 +18884,8 @@
       },
       "phone": "+592"
     },
-    "hk": {
+    {
+      "code": "hk",
       "flag": "https://flagcdn.com/hk.svg",
       "name": {
         "af": "Hongkong SAS China",
@@ -19040,7 +19138,8 @@
       },
       "phone": "+852"
     },
-    "hm": {
+    {
+      "code": "hm",
       "flag": "https://flagcdn.com/hm.svg",
       "name": {
         "af": "Heardeiland en McDonaldeilande",
@@ -19210,7 +19309,8 @@
       },
       "phone": ""
     },
-    "hn": {
+    {
+      "code": "hn",
       "flag": "https://flagcdn.com/hn.svg",
       "name": {
         "af": "Honduras",
@@ -19380,7 +19480,8 @@
       },
       "phone": "+504"
     },
-    "hr": {
+    {
+      "code": "hr",
       "flag": "https://flagcdn.com/hr.svg",
       "name": {
         "af": "Kroasië",
@@ -19550,7 +19651,8 @@
       },
       "phone": "+385"
     },
-    "ht": {
+    {
+      "code": "ht",
       "flag": "https://flagcdn.com/ht.svg",
       "name": {
         "af": "Haïti",
@@ -19726,7 +19828,8 @@
       },
       "phone": "+509"
     },
-    "hu": {
+    {
+      "code": "hu",
       "flag": "https://flagcdn.com/hu.svg",
       "name": {
         "af": "Hongarye",
@@ -19896,7 +19999,8 @@
       },
       "phone": "+36"
     },
-    "id": {
+    {
+      "code": "id",
       "flag": "https://flagcdn.com/id.svg",
       "name": {
         "af": "Indonesië",
@@ -20066,7 +20170,8 @@
       },
       "phone": "+62"
     },
-    "im": {
+    {
+      "code": "im",
       "flag": "https://flagcdn.com/im.svg",
       "name": {
         "af": "Eiland Man",
@@ -20242,7 +20347,8 @@
       },
       "phone": "+44"
     },
-    "in": {
+    {
+      "code": "in",
       "flag": "https://flagcdn.com/in.svg",
       "name": {
         "af": "Indië",
@@ -20578,7 +20684,8 @@
       },
       "phone": "+91"
     },
-    "io": {
+    {
+      "code": "io",
       "flag": "https://flagcdn.com/io.svg",
       "name": {
         "af": "Brits-Indiese Oseaangebied",
@@ -20748,7 +20855,8 @@
       },
       "phone": "+246"
     },
-    "ie": {
+    {
+      "code": "ie",
       "flag": "https://flagcdn.com/ie.svg",
       "name": {
         "af": "Ierland",
@@ -21001,7 +21109,8 @@
       },
       "phone": "+353"
     },
-    "ir": {
+    {
+      "code": "ir",
       "flag": "https://flagcdn.com/ir.svg",
       "name": {
         "af": "Iran",
@@ -21171,7 +21280,8 @@
       },
       "phone": "+98"
     },
-    "iq": {
+    {
+      "code": "iq",
       "flag": "https://flagcdn.com/iq.svg",
       "name": {
         "af": "Irak",
@@ -21491,7 +21601,8 @@
       },
       "phone": "+964"
     },
-    "is": {
+    {
+      "code": "is",
       "flag": "https://flagcdn.com/is.svg",
       "name": {
         "af": "Ysland",
@@ -21661,7 +21772,8 @@
       },
       "phone": "+354"
     },
-    "il": {
+    {
+      "code": "il",
       "flag": "https://flagcdn.com/il.svg",
       "name": {
         "af": "Israel",
@@ -21914,7 +22026,8 @@
       },
       "phone": "+972"
     },
-    "it": {
+    {
+      "code": "it",
       "flag": "https://flagcdn.com/it.svg",
       "name": {
         "af": "Italië",
@@ -22084,7 +22197,8 @@
       },
       "phone": "+39"
     },
-    "jm": {
+    {
+      "code": "jm",
       "flag": "https://flagcdn.com/jm.svg",
       "name": {
         "af": "Jamaika",
@@ -22279,7 +22393,8 @@
       },
       "phone": "+1876"
     },
-    "je": {
+    {
+      "code": "je",
       "flag": "https://flagcdn.com/je.svg",
       "name": {
         "af": "Jersey",
@@ -22538,7 +22653,8 @@
       },
       "phone": "+44"
     },
-    "jo": {
+    {
+      "code": "jo",
       "flag": "https://flagcdn.com/jo.svg",
       "name": {
         "af": "Jordanië",
@@ -22708,7 +22824,8 @@
       },
       "phone": "+962"
     },
-    "jp": {
+    {
+      "code": "jp",
       "flag": "https://flagcdn.com/jp.svg",
       "name": {
         "af": "Japan",
@@ -22878,7 +22995,8 @@
       },
       "phone": "+81"
     },
-    "kz": {
+    {
+      "code": "kz",
       "flag": "https://flagcdn.com/kz.svg",
       "name": {
         "af": "Kazakstan",
@@ -23131,7 +23249,8 @@
       },
       "phone": "+7"
     },
-    "ke": {
+    {
+      "code": "ke",
       "flag": "https://flagcdn.com/ke.svg",
       "name": {
         "af": "Kenia",
@@ -23384,7 +23503,8 @@
       },
       "phone": "+254"
     },
-    "kg": {
+    {
+      "code": "kg",
       "flag": "https://flagcdn.com/kg.svg",
       "name": {
         "af": "Kirgistan",
@@ -23637,7 +23757,8 @@
       },
       "phone": "+996"
     },
-    "kh": {
+    {
+      "code": "kh",
       "flag": "https://flagcdn.com/kh.svg",
       "name": {
         "af": "Kambodja",
@@ -23807,7 +23928,8 @@
       },
       "phone": "+855"
     },
-    "ki": {
+    {
+      "code": "ki",
       "flag": "https://flagcdn.com/ki.svg",
       "name": {
         "af": "Kiribati",
@@ -24060,7 +24182,8 @@
       },
       "phone": "+686"
     },
-    "kn": {
+    {
+      "code": "kn",
       "flag": "https://flagcdn.com/kn.svg",
       "name": {
         "af": "Sint Kitts en Nevis",
@@ -24230,7 +24353,8 @@
       },
       "phone": "+1869"
     },
-    "kr": {
+    {
+      "code": "kr",
       "flag": "https://flagcdn.com/kr.svg",
       "name": {
         "af": "Suid-Korea",
@@ -24400,7 +24524,8 @@
       },
       "phone": "+82"
     },
-    "xk": {
+    {
+      "code": "xk",
       "flag": "https://flagcdn.com/xk.svg",
       "name": {
         "af": "Kosovo",
@@ -24653,7 +24778,8 @@
       },
       "phone": "+383"
     },
-    "kw": {
+    {
+      "code": "kw",
       "flag": "https://flagcdn.com/kw.svg",
       "name": {
         "af": "Koeweit",
@@ -24823,7 +24949,8 @@
       },
       "phone": "+965"
     },
-    "la": {
+    {
+      "code": "la",
       "flag": "https://flagcdn.com/la.svg",
       "name": {
         "af": "Laos",
@@ -24993,7 +25120,8 @@
       },
       "phone": "+856"
     },
-    "lb": {
+    {
+      "code": "lb",
       "flag": "https://flagcdn.com/lb.svg",
       "name": {
         "af": "Libanon",
@@ -25246,7 +25374,8 @@
       },
       "phone": "+961"
     },
-    "lr": {
+    {
+      "code": "lr",
       "flag": "https://flagcdn.com/lr.svg",
       "name": {
         "af": "Liberië",
@@ -25416,7 +25545,8 @@
       },
       "phone": "+231"
     },
-    "ly": {
+    {
+      "code": "ly",
       "flag": "https://flagcdn.com/ly.svg",
       "name": {
         "af": "Libië",
@@ -25586,7 +25716,8 @@
       },
       "phone": "+218"
     },
-    "lc": {
+    {
+      "code": "lc",
       "flag": "https://flagcdn.com/lc.svg",
       "name": {
         "af": "Sint Lucia",
@@ -25756,7 +25887,8 @@
       },
       "phone": "+1758"
     },
-    "li": {
+    {
+      "code": "li",
       "flag": "https://flagcdn.com/li.svg",
       "name": {
         "af": "Liechtenstein",
@@ -25926,7 +26058,8 @@
       },
       "phone": "+423"
     },
-    "lk": {
+    {
+      "code": "lk",
       "flag": "https://flagcdn.com/lk.svg",
       "name": {
         "af": "Sri Lanka",
@@ -26179,7 +26312,8 @@
       },
       "phone": "+94"
     },
-    "ls": {
+    {
+      "code": "ls",
       "flag": "https://flagcdn.com/ls.svg",
       "name": {
         "af": "Lesotho",
@@ -26355,7 +26489,8 @@
       },
       "phone": "+266"
     },
-    "lt": {
+    {
+      "code": "lt",
       "flag": "https://flagcdn.com/lt.svg",
       "name": {
         "af": "Litaue",
@@ -26525,7 +26660,8 @@
       },
       "phone": "+370"
     },
-    "lu": {
+    {
+      "code": "lu",
       "flag": "https://flagcdn.com/lu.svg",
       "name": {
         "af": "Luxemburg",
@@ -26784,7 +26920,8 @@
       },
       "phone": "+352"
     },
-    "lv": {
+    {
+      "code": "lv",
       "flag": "https://flagcdn.com/lv.svg",
       "name": {
         "af": "Letland",
@@ -26954,7 +27091,8 @@
       },
       "phone": "+371"
     },
-    "mo": {
+    {
+      "code": "mo",
       "flag": "https://flagcdn.com/mo.svg",
       "name": {
         "af": "Macau SAS China",
@@ -27207,7 +27345,8 @@
       },
       "phone": "+853"
     },
-    "mf": {
+    {
+      "code": "mf",
       "flag": "https://flagcdn.com/mf.svg",
       "name": {
         "af": "Sint Martin",
@@ -27377,7 +27516,8 @@
       },
       "phone": "+590"
     },
-    "ma": {
+    {
+      "code": "ma",
       "flag": "https://flagcdn.com/ma.svg",
       "name": {
         "af": "Marokko",
@@ -27553,7 +27693,8 @@
       },
       "phone": "+212"
     },
-    "mc": {
+    {
+      "code": "mc",
       "flag": "https://flagcdn.com/mc.svg",
       "name": {
         "af": "Monaco",
@@ -27723,7 +27864,8 @@
       },
       "phone": "+377"
     },
-    "md": {
+    {
+      "code": "md",
       "flag": "https://flagcdn.com/md.svg",
       "name": {
         "af": "Moldowa",
@@ -27893,7 +28035,8 @@
       },
       "phone": "+373"
     },
-    "mg": {
+    {
+      "code": "mg",
       "flag": "https://flagcdn.com/mg.svg",
       "name": {
         "af": "Madagaskar",
@@ -28069,7 +28212,8 @@
       },
       "phone": "+261"
     },
-    "mv": {
+    {
+      "code": "mv",
       "flag": "https://flagcdn.com/mv.svg",
       "name": {
         "af": "Maledive",
@@ -28162,7 +28306,8 @@
       },
       "phone": "+960"
     },
-    "mx": {
+    {
+      "code": "mx",
       "flag": "https://flagcdn.com/mx.svg",
       "name": {
         "af": "Meksiko",
@@ -28332,7 +28477,8 @@
       },
       "phone": "+52"
     },
-    "mh": {
+    {
+      "code": "mh",
       "flag": "https://flagcdn.com/mh.svg",
       "name": {
         "af": "Marshalleilande",
@@ -28508,7 +28654,8 @@
       },
       "phone": "+692"
     },
-    "mk": {
+    {
+      "code": "mk",
       "flag": "https://flagcdn.com/mk.svg",
       "name": {
         "af": "Noord-Macedonië",
@@ -28678,7 +28825,8 @@
       },
       "phone": "+389"
     },
-    "ml": {
+    {
+      "code": "ml",
       "flag": "https://flagcdn.com/ml.svg",
       "name": {
         "af": "Mali",
@@ -28848,7 +28996,8 @@
       },
       "phone": "+223"
     },
-    "mt": {
+    {
+      "code": "mt",
       "flag": "https://flagcdn.com/mt.svg",
       "name": {
         "af": "Malta",
@@ -29024,7 +29173,8 @@
       },
       "phone": "+356"
     },
-    "mm": {
+    {
+      "code": "mm",
       "flag": "https://flagcdn.com/mm.svg",
       "name": {
         "af": "Mianmar (Birma)",
@@ -29194,7 +29344,8 @@
       },
       "phone": "+95"
     },
-    "me": {
+    {
+      "code": "me",
       "flag": "https://flagcdn.com/me.svg",
       "name": {
         "af": "Montenegro",
@@ -29287,7 +29438,8 @@
       },
       "phone": "+382"
     },
-    "mn": {
+    {
+      "code": "mn",
       "flag": "https://flagcdn.com/mn.svg",
       "name": {
         "af": "Mongolië",
@@ -29457,7 +29609,8 @@
       },
       "phone": "+976"
     },
-    "mp": {
+    {
+      "code": "mp",
       "flag": "https://flagcdn.com/mp.svg",
       "name": {
         "af": "Noord-Mariane-eilande",
@@ -29639,7 +29792,8 @@
       },
       "phone": "+1670"
     },
-    "mz": {
+    {
+      "code": "mz",
       "flag": "https://flagcdn.com/mz.svg",
       "name": {
         "af": "Mosambiek",
@@ -29809,7 +29963,8 @@
       },
       "phone": "+258"
     },
-    "mr": {
+    {
+      "code": "mr",
       "flag": "https://flagcdn.com/mr.svg",
       "name": {
         "af": "Mauritanië",
@@ -29979,7 +30134,8 @@
       },
       "phone": "+222"
     },
-    "ms": {
+    {
+      "code": "ms",
       "flag": "https://flagcdn.com/ms.svg",
       "name": {
         "af": "Montserrat",
@@ -30149,7 +30305,8 @@
       },
       "phone": "+1664"
     },
-    "mq": {
+    {
+      "code": "mq",
       "flag": "https://flagcdn.com/mq.svg",
       "name": {
         "af": "Martinique",
@@ -30319,7 +30476,8 @@
       },
       "phone": "+596"
     },
-    "mu": {
+    {
+      "code": "mu",
       "flag": "https://flagcdn.com/mu.svg",
       "name": {
         "af": "Mauritius",
@@ -30655,7 +30813,8 @@
       },
       "phone": "+230"
     },
-    "mw": {
+    {
+      "code": "mw",
       "flag": "https://flagcdn.com/mw.svg",
       "name": {
         "af": "Malawi",
@@ -30831,7 +30990,8 @@
       },
       "phone": "+265"
     },
-    "my": {
+    {
+      "code": "my",
       "flag": "https://flagcdn.com/my.svg",
       "name": {
         "af": "Maleisië",
@@ -31084,7 +31244,8 @@
       },
       "phone": "+60"
     },
-    "yt": {
+    {
+      "code": "yt",
       "flag": "https://flagcdn.com/yt.svg",
       "name": {
         "af": "Mayotte",
@@ -31254,7 +31415,8 @@
       },
       "phone": "+262"
     },
-    "na": {
+    {
+      "code": "na",
       "flag": "https://flagcdn.com/na.svg",
       "name": {
         "af": "Namibië",
@@ -31703,7 +31865,8 @@
       },
       "phone": "+264"
     },
-    "nc": {
+    {
+      "code": "nc",
       "flag": "https://flagcdn.com/nc.svg",
       "name": {
         "af": "Nieu-Kaledonië",
@@ -31873,7 +32036,8 @@
       },
       "phone": "+687"
     },
-    "ne": {
+    {
+      "code": "ne",
       "flag": "https://flagcdn.com/ne.svg",
       "name": {
         "af": "Niger",
@@ -32043,7 +32207,8 @@
       },
       "phone": "+227"
     },
-    "nf": {
+    {
+      "code": "nf",
       "flag": "https://flagcdn.com/nf.svg",
       "name": {
         "af": "Norfolkeiland",
@@ -32219,7 +32384,8 @@
       },
       "phone": "+672"
     },
-    "ng": {
+    {
+      "code": "ng",
       "flag": "https://flagcdn.com/ng.svg",
       "name": {
         "af": "Nigerië",
@@ -32389,7 +32555,8 @@
       },
       "phone": "+234"
     },
-    "ni": {
+    {
+      "code": "ni",
       "flag": "https://flagcdn.com/ni.svg",
       "name": {
         "af": "Nicaragua",
@@ -32559,7 +32726,8 @@
       },
       "phone": "+505"
     },
-    "nu": {
+    {
+      "code": "nu",
       "flag": "https://flagcdn.com/nu.svg",
       "name": {
         "af": "Niue",
@@ -32812,7 +32980,8 @@
       },
       "phone": "+683"
     },
-    "nl": {
+    {
+      "code": "nl",
       "flag": "https://flagcdn.com/nl.svg",
       "name": {
         "af": "Nederland",
@@ -32982,7 +33151,8 @@
       },
       "phone": "+31"
     },
-    "no": {
+    {
+      "code": "no",
       "flag": "https://flagcdn.com/no.svg",
       "name": {
         "af": "Noorweë",
@@ -33087,7 +33257,8 @@
       },
       "phone": "+47"
     },
-    "np": {
+    {
+      "code": "np",
       "flag": "https://flagcdn.com/np.svg",
       "name": {
         "af": "Nepal",
@@ -33257,7 +33428,8 @@
       },
       "phone": "+977"
     },
-    "nr": {
+    {
+      "code": "nr",
       "flag": "https://flagcdn.com/nr.svg",
       "name": {
         "af": "Nauru",
@@ -33433,7 +33605,8 @@
       },
       "phone": "+674"
     },
-    "nz": {
+    {
+      "code": "nz",
       "flag": "https://flagcdn.com/nz.svg",
       "name": {
         "af": "Nieu-Seeland",
@@ -33615,7 +33788,8 @@
       },
       "phone": "+64"
     },
-    "om": {
+    {
+      "code": "om",
       "flag": "https://flagcdn.com/om.svg",
       "name": {
         "af": "Oman",
@@ -33785,7 +33959,8 @@
       },
       "phone": "+968"
     },
-    "pk": {
+    {
+      "code": "pk",
       "flag": "https://flagcdn.com/pk.svg",
       "name": {
         "af": "Pakistan",
@@ -34038,7 +34213,8 @@
       },
       "phone": "+92"
     },
-    "pa": {
+    {
+      "code": "pa",
       "flag": "https://flagcdn.com/pa.svg",
       "name": {
         "af": "Panama",
@@ -34208,7 +34384,8 @@
       },
       "phone": "+507"
     },
-    "pn": {
+    {
+      "code": "pn",
       "flag": "https://flagcdn.com/pn.svg",
       "name": {
         "af": "Pitcairneilande",
@@ -34378,7 +34555,8 @@
       },
       "phone": "+64"
     },
-    "pe": {
+    {
+      "code": "pe",
       "flag": "https://flagcdn.com/pe.svg",
       "name": {
         "af": "Peru",
@@ -34560,7 +34738,8 @@
       },
       "phone": "+51"
     },
-    "ph": {
+    {
+      "code": "ph",
       "flag": "https://flagcdn.com/ph.svg",
       "name": {
         "af": "Filippyne",
@@ -34813,7 +34992,8 @@
       },
       "phone": "+63"
     },
-    "pw": {
+    {
+      "code": "pw",
       "flag": "https://flagcdn.com/pw.svg",
       "name": {
         "af": "Palau",
@@ -35066,7 +35246,8 @@
       },
       "phone": "+680"
     },
-    "pg": {
+    {
+      "code": "pg",
       "flag": "https://flagcdn.com/pg.svg",
       "name": {
         "af": "Papoea-Nieu-Guinee",
@@ -35325,7 +35506,8 @@
       },
       "phone": "+675"
     },
-    "pl": {
+    {
+      "code": "pl",
       "flag": "https://flagcdn.com/pl.svg",
       "name": {
         "af": "Pole",
@@ -35495,7 +35677,8 @@
       },
       "phone": "+48"
     },
-    "pr": {
+    {
+      "code": "pr",
       "flag": "https://flagcdn.com/pr.svg",
       "name": {
         "af": "Puerto Rico",
@@ -35748,7 +35931,8 @@
       },
       "phone": "+1"
     },
-    "kp": {
+    {
+      "code": "kp",
       "flag": "https://flagcdn.com/kp.svg",
       "name": {
         "af": "Noord-Korea",
@@ -35918,7 +36102,8 @@
       },
       "phone": "+850"
     },
-    "pt": {
+    {
+      "code": "pt",
       "flag": "https://flagcdn.com/pt.svg",
       "name": {
         "af": "Portugal",
@@ -36088,7 +36273,8 @@
       },
       "phone": "+351"
     },
-    "py": {
+    {
+      "code": "py",
       "flag": "https://flagcdn.com/py.svg",
       "name": {
         "af": "Paraguay",
@@ -36264,7 +36450,8 @@
       },
       "phone": "+595"
     },
-    "ps": {
+    {
+      "code": "ps",
       "flag": "https://flagcdn.com/ps.svg",
       "name": {
         "af": "Palestynse Grondgebiede",
@@ -36434,7 +36621,8 @@
       },
       "phone": "+970"
     },
-    "pf": {
+    {
+      "code": "pf",
       "flag": "https://flagcdn.com/pf.svg",
       "name": {
         "af": "Frans-Polinesië",
@@ -36604,7 +36792,8 @@
       },
       "phone": "+689"
     },
-    "qa": {
+    {
+      "code": "qa",
       "flag": "https://flagcdn.com/qa.svg",
       "name": {
         "af": "Katar",
@@ -36774,7 +36963,8 @@
       },
       "phone": "+974"
     },
-    "re": {
+    {
+      "code": "re",
       "flag": "https://flagcdn.com/re.svg",
       "name": {
         "af": "Réunion",
@@ -36944,7 +37134,8 @@
       },
       "phone": "+262"
     },
-    "ro": {
+    {
+      "code": "ro",
       "flag": "https://flagcdn.com/ro.svg",
       "name": {
         "af": "Roemenië",
@@ -37114,7 +37305,8 @@
       },
       "phone": "+40"
     },
-    "ru": {
+    {
+      "code": "ru",
       "flag": "https://flagcdn.com/ru.svg",
       "name": {
         "af": "Rusland",
@@ -37284,7 +37476,8 @@
       },
       "phone": "+7"
     },
-    "rw": {
+    {
+      "code": "rw",
       "flag": "https://flagcdn.com/rw.svg",
       "name": {
         "af": "Rwanda",
@@ -37543,7 +37736,8 @@
       },
       "phone": "+250"
     },
-    "sa": {
+    {
+      "code": "sa",
       "flag": "https://flagcdn.com/sa.svg",
       "name": {
         "af": "Saoedi-Arabië",
@@ -37713,7 +37907,8 @@
       },
       "phone": "+966"
     },
-    "sd": {
+    {
+      "code": "sd",
       "flag": "https://flagcdn.com/sd.svg",
       "name": {
         "af": "Soedan",
@@ -37966,7 +38161,8 @@
       },
       "phone": "+249"
     },
-    "sn": {
+    {
+      "code": "sn",
       "flag": "https://flagcdn.com/sn.svg",
       "name": {
         "af": "Senegal",
@@ -38136,7 +38332,8 @@
       },
       "phone": "+221"
     },
-    "sg": {
+    {
+      "code": "sg",
       "flag": "https://flagcdn.com/sg.svg",
       "name": {
         "af": "Singapoer",
@@ -38555,7 +38752,8 @@
       },
       "phone": "+65"
     },
-    "gs": {
+    {
+      "code": "gs",
       "flag": "https://flagcdn.com/gs.svg",
       "name": {
         "af": "Suid-Georgië en die Suidelike Sandwicheilande",
@@ -38725,7 +38923,8 @@
       },
       "phone": "+500"
     },
-    "sj": {
+    {
+      "code": "sj",
       "flag": "https://flagcdn.com/sj.svg",
       "name": {
         "af": "Spitsbergen en Jan Mayen",
@@ -38895,7 +39094,8 @@
       },
       "phone": "+4779"
     },
-    "sb": {
+    {
+      "code": "sb",
       "flag": "https://flagcdn.com/sb.svg",
       "name": {
         "af": "Salomonseilande",
@@ -39065,7 +39265,8 @@
       },
       "phone": "+677"
     },
-    "sl": {
+    {
+      "code": "sl",
       "flag": "https://flagcdn.com/sl.svg",
       "name": {
         "af": "Sierra Leone",
@@ -39235,7 +39436,8 @@
       },
       "phone": "+232"
     },
-    "sv": {
+    {
+      "code": "sv",
       "flag": "https://flagcdn.com/sv.svg",
       "name": {
         "af": "El Salvador",
@@ -39405,7 +39607,8 @@
       },
       "phone": "+503"
     },
-    "sm": {
+    {
+      "code": "sm",
       "flag": "https://flagcdn.com/sm.svg",
       "name": {
         "af": "San Marino",
@@ -39575,7 +39778,8 @@
       },
       "phone": "+378"
     },
-    "so": {
+    {
+      "code": "so",
       "flag": "https://flagcdn.com/so.svg",
       "name": {
         "af": "Somalië",
@@ -39751,7 +39955,8 @@
       },
       "phone": "+252"
     },
-    "pm": {
+    {
+      "code": "pm",
       "flag": "https://flagcdn.com/pm.svg",
       "name": {
         "af": "Sint Pierre en Miquelon",
@@ -39921,7 +40126,8 @@
       },
       "phone": "+508"
     },
-    "rs": {
+    {
+      "code": "rs",
       "flag": "https://flagcdn.com/rs.svg",
       "name": {
         "af": "Serwië",
@@ -40091,7 +40297,8 @@
       },
       "phone": "+381"
     },
-    "ss": {
+    {
+      "code": "ss",
       "flag": "https://flagcdn.com/ss.svg",
       "name": {
         "af": "Suid-Soedan",
@@ -40261,7 +40468,8 @@
       },
       "phone": "+211"
     },
-    "st": {
+    {
+      "code": "st",
       "flag": "https://flagcdn.com/st.svg",
       "name": {
         "af": "São Tomé en Príncipe",
@@ -40431,7 +40639,8 @@
       },
       "phone": "+239"
     },
-    "sr": {
+    {
+      "code": "sr",
       "flag": "https://flagcdn.com/sr.svg",
       "name": {
         "af": "Suriname",
@@ -40601,7 +40810,8 @@
       },
       "phone": "+597"
     },
-    "sk": {
+    {
+      "code": "sk",
       "flag": "https://flagcdn.com/sk.svg",
       "name": {
         "af": "Slowakye",
@@ -40771,7 +40981,8 @@
       },
       "phone": "+421"
     },
-    "si": {
+    {
+      "code": "si",
       "flag": "https://flagcdn.com/si.svg",
       "name": {
         "af": "Slowenië",
@@ -40941,7 +41152,8 @@
       },
       "phone": "+386"
     },
-    "se": {
+    {
+      "code": "se",
       "flag": "https://flagcdn.com/se.svg",
       "name": {
         "af": "Swede",
@@ -41111,7 +41323,8 @@
       },
       "phone": "+46"
     },
-    "sz": {
+    {
+      "code": "sz",
       "flag": "https://flagcdn.com/sz.svg",
       "name": {
         "af": "Eswatini",
@@ -41287,7 +41500,8 @@
       },
       "phone": "+268"
     },
-    "sx": {
+    {
+      "code": "sx",
       "flag": "https://flagcdn.com/sx.svg",
       "name": {
         "af": "Sint Maarten",
@@ -41623,7 +41837,8 @@
       },
       "phone": "+1721"
     },
-    "sc": {
+    {
+      "code": "sc",
       "flag": "https://flagcdn.com/sc.svg",
       "name": {
         "af": "Seychelle",
@@ -41958,7 +42173,8 @@
       },
       "phone": "+248"
     },
-    "sy": {
+    {
+      "code": "sy",
       "flag": "https://flagcdn.com/sy.svg",
       "name": {
         "af": "Sirië",
@@ -42128,7 +42344,8 @@
       },
       "phone": "+963"
     },
-    "tc": {
+    {
+      "code": "tc",
       "flag": "https://flagcdn.com/tc.svg",
       "name": {
         "af": "Turks- en Caicoseilande",
@@ -42298,7 +42515,8 @@
       },
       "phone": "+1649"
     },
-    "td": {
+    {
+      "code": "td",
       "flag": "https://flagcdn.com/td.svg",
       "name": {
         "af": "Tsjad",
@@ -42551,7 +42769,8 @@
       },
       "phone": "+235"
     },
-    "tg": {
+    {
+      "code": "tg",
       "flag": "https://flagcdn.com/tg.svg",
       "name": {
         "af": "Togo",
@@ -42721,7 +42940,8 @@
       },
       "phone": "+228"
     },
-    "th": {
+    {
+      "code": "th",
       "flag": "https://flagcdn.com/th.svg",
       "name": {
         "af": "Thailand",
@@ -42891,7 +43111,8 @@
       },
       "phone": "+66"
     },
-    "tj": {
+    {
+      "code": "tj",
       "flag": "https://flagcdn.com/tj.svg",
       "name": {
         "af": "Tadjikistan",
@@ -43067,7 +43288,8 @@
       },
       "phone": "+992"
     },
-    "tk": {
+    {
+      "code": "tk",
       "flag": "https://flagcdn.com/tk.svg",
       "name": {
         "af": "Tokelau",
@@ -43301,7 +43523,8 @@
       },
       "phone": "+690"
     },
-    "tm": {
+    {
+      "code": "tm",
       "flag": "https://flagcdn.com/tm.svg",
       "name": {
         "af": "Turkmenistan",
@@ -43477,7 +43700,8 @@
       },
       "phone": "+993"
     },
-    "tl": {
+    {
+      "code": "tl",
       "flag": "https://flagcdn.com/tl.svg",
       "name": {
         "af": "Oos-Timor",
@@ -43730,7 +43954,8 @@
       },
       "phone": "+670"
     },
-    "to": {
+    {
+      "code": "to",
       "flag": "https://flagcdn.com/to.svg",
       "name": {
         "af": "Tonga",
@@ -43906,7 +44131,8 @@
       },
       "phone": "+676"
     },
-    "tt": {
+    {
+      "code": "tt",
       "flag": "https://flagcdn.com/tt.svg",
       "name": {
         "af": "Trinidad en Tobago",
@@ -44076,7 +44302,8 @@
       },
       "phone": "+1868"
     },
-    "tn": {
+    {
+      "code": "tn",
       "flag": "https://flagcdn.com/tn.svg",
       "name": {
         "af": "Tunisië",
@@ -44246,7 +44473,8 @@
       },
       "phone": "+216"
     },
-    "tr": {
+    {
+      "code": "tr",
       "flag": "https://flagcdn.com/tr.svg",
       "name": {
         "af": "Turkye",
@@ -44416,7 +44644,8 @@
       },
       "phone": "+90"
     },
-    "tv": {
+    {
+      "code": "tv",
       "flag": "https://flagcdn.com/tv.svg",
       "name": {
         "af": "Tuvalu",
@@ -44669,7 +44898,8 @@
       },
       "phone": "+688"
     },
-    "tw": {
+    {
+      "code": "tw",
       "flag": "https://flagcdn.com/tw.svg",
       "name": {
         "af": "Taiwan",
@@ -44839,7 +45069,8 @@
       },
       "phone": "+886"
     },
-    "tz": {
+    {
+      "code": "tz",
       "flag": "https://flagcdn.com/tz.svg",
       "name": {
         "af": "Tanzanië",
@@ -45092,7 +45323,8 @@
       },
       "phone": "+255"
     },
-    "ug": {
+    {
+      "code": "ug",
       "flag": "https://flagcdn.com/ug.svg",
       "name": {
         "af": "Uganda",
@@ -45345,7 +45577,8 @@
       },
       "phone": "+256"
     },
-    "ua": {
+    {
+      "code": "ua",
       "flag": "https://flagcdn.com/ua.svg",
       "name": {
         "af": "Oekraïne",
@@ -45515,7 +45748,8 @@
       },
       "phone": "+380"
     },
-    "um": {
+    {
+      "code": "um",
       "flag": "https://flagcdn.com/um.svg",
       "name": {
         "af": "Klein afgeleë eilande van die VSA",
@@ -45685,7 +45919,8 @@
       },
       "phone": "+268"
     },
-    "uy": {
+    {
+      "code": "uy",
       "flag": "https://flagcdn.com/uy.svg",
       "name": {
         "af": "Uruguay",
@@ -45855,7 +46090,8 @@
       },
       "phone": "+598"
     },
-    "us": {
+    {
+      "code": "us",
       "flag": "https://flagcdn.com/us.svg",
       "name": {
         "af": "Verenigde State van Amerika",
@@ -46025,7 +46261,8 @@
       },
       "phone": "+1"
     },
-    "uz": {
+    {
+      "code": "uz",
       "flag": "https://flagcdn.com/uz.svg",
       "name": {
         "af": "Oesbekistan",
@@ -46278,7 +46515,8 @@
       },
       "phone": "+998"
     },
-    "va": {
+    {
+      "code": "va",
       "flag": "https://flagcdn.com/va.svg",
       "name": {
         "af": "Vatikaanstad",
@@ -46454,7 +46692,8 @@
       },
       "phone": "+3"
     },
-    "vc": {
+    {
+      "code": "vc",
       "flag": "https://flagcdn.com/vc.svg",
       "name": {
         "af": "Sint Vincent en die Grenadine",
@@ -46624,7 +46863,8 @@
       },
       "phone": "+1784"
     },
-    "ve": {
+    {
+      "code": "ve",
       "flag": "https://flagcdn.com/ve.svg",
       "name": {
         "af": "Venezuela",
@@ -46794,7 +47034,8 @@
       },
       "phone": "+58"
     },
-    "vg": {
+    {
+      "code": "vg",
       "flag": "https://flagcdn.com/vg.svg",
       "name": {
         "af": "Britse Maagde-eilande",
@@ -46964,7 +47205,8 @@
       },
       "phone": "+1284"
     },
-    "vi": {
+    {
+      "code": "vi",
       "flag": "https://flagcdn.com/vi.svg",
       "name": {
         "af": "VSA se Maagde-eilande",
@@ -47134,7 +47376,8 @@
       },
       "phone": "+1340"
     },
-    "vn": {
+    {
+      "code": "vn",
       "flag": "https://flagcdn.com/vn.svg",
       "name": {
         "af": "Viëtnam",
@@ -47304,7 +47547,8 @@
       },
       "phone": "+84"
     },
-    "vu": {
+    {
+      "code": "vu",
       "flag": "https://flagcdn.com/vu.svg",
       "name": {
         "af": "Vanuatu",
@@ -47563,7 +47807,8 @@
       },
       "phone": "+678"
     },
-    "wf": {
+    {
+      "code": "wf",
       "flag": "https://flagcdn.com/wf.svg",
       "name": {
         "af": "Wallis en Futuna",
@@ -47733,7 +47978,8 @@
       },
       "phone": "+681"
     },
-    "ws": {
+    {
+      "code": "ws",
       "flag": "https://flagcdn.com/ws.svg",
       "name": {
         "af": "Samoa",
@@ -47909,7 +48155,8 @@
       },
       "phone": "+685"
     },
-    "ye": {
+    {
+      "code": "ye",
       "flag": "https://flagcdn.com/ye.svg",
       "name": {
         "af": "Jemen",
@@ -48079,7 +48326,8 @@
       },
       "phone": "+967"
     },
-    "za": {
+    {
+      "code": "za",
       "flag": "https://flagcdn.com/za.svg",
       "name": {
         "af": "Suid-Afrika",
@@ -48540,7 +48788,8 @@
       },
       "phone": "+27"
     },
-    "zm": {
+    {
+      "code": "zm",
       "flag": "https://flagcdn.com/zm.svg",
       "name": {
         "af": "Zambië",
@@ -48710,7 +48959,8 @@
       },
       "phone": "+260"
     },
-    "zw": {
+    {
+      "code": "zw",
       "flag": "https://flagcdn.com/zw.svg",
       "name": {
         "af": "Zimbabwe",
@@ -48964,7 +49214,7 @@
       },
       "phone": "+263"
     }
-  },
+  ],
   "message": "success",
   "status": 200
 }
