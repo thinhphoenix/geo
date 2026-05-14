@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gh.svg",
+    "name": {
+      "native": {
+        "en": "Ghana"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Ghana"
+        }
+      }
+    },
+    "phone": "+233"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cu.svg",
+    "name": {
+      "native": {
+        "es": "Cuba"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "Cuba"
+        }
+      }
+    },
+    "phone": "+53"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/jo.svg",
+    "name": {
+      "native": {
+        "ar": "الأردن"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "الأردن"
+        }
+      }
+    },
+    "phone": "+962"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ad.svg",
+    "name": {
+      "native": {
+        "ca": "Andorra"
+      }
+    },
+    "lang": {
+      "ca": {
+        "native": {
+          "ca": "Andorra"
+        }
+      }
+    },
+    "phone": "+376"
+  },
+  "message": "success",
+  "status": 200
+}

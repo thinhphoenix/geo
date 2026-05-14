@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ug.svg",
+    "name": {
+      "native": {
+        "en": "Uganda",
+        "sw": "Uganda"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Uganda"
+        }
+      },
+      "sw": {
+        "native": {
+          "sw": "Uganda"
+        }
+      }
+    },
+    "phone": "+256"
+  },
+  "message": "success",
+  "status": 200
+}

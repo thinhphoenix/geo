@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ax.svg",
+    "name": {
+      "native": {
+        "sv": "Åland"
+      }
+    },
+    "lang": {
+      "sv": {
+        "native": {
+          "sv": "Åland"
+        }
+      }
+    },
+    "phone": "+35818"
+  },
+  "message": "success",
+  "status": 200
+}

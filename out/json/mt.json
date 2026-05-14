@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mt.svg",
+    "name": {
+      "native": {
+        "en": "Malta",
+        "mlt": "Malta"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Malta"
+        }
+      },
+      "mlt": {
+        "native": {
+          "mlt": "Malta"
+        }
+      }
+    },
+    "phone": "+356"
+  },
+  "message": "success",
+  "status": 200
+}

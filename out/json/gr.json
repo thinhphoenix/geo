@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gr.svg",
+    "name": {
+      "native": {
+        "el": "Ελλάδα"
+      }
+    },
+    "lang": {
+      "el": {
+        "native": {
+          "el": "Ελλάδα"
+        }
+      }
+    },
+    "phone": "+30"
+  },
+  "message": "success",
+  "status": 200
+}

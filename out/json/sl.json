@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sl.svg",
+    "name": {
+      "native": {
+        "en": "Sierra Leone"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Sierra Leone"
+        }
+      }
+    },
+    "phone": "+232"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gq.svg",
+    "name": {
+      "native": {
+        "fr": "Guinée équatoriale",
+        "pt": "Guiné Equatorial",
+        "es": "Guinea Ecuatorial"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Guinée équatoriale"
+        }
+      },
+      "pt": {
+        "native": {
+          "pt": "Guiné Equatorial"
+        }
+      },
+      "es": {
+        "native": {
+          "es": "Guinea Ecuatorial"
+        }
+      }
+    },
+    "phone": "+240"
+  },
+  "message": "success",
+  "status": 200
+}

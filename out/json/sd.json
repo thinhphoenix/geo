@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sd.svg",
+    "name": {
+      "native": {
+        "ar": "السودان",
+        "en": "Sudan"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "السودان"
+        }
+      },
+      "en": {
+        "native": {
+          "en": "Sudan"
+        }
+      }
+    },
+    "phone": "+249"
+  },
+  "message": "success",
+  "status": 200
+}

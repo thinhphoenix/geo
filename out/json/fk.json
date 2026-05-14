@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/fk.svg",
+    "name": {
+      "native": {
+        "en": "Falkland Islands"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Falkland Islands"
+        }
+      }
+    },
+    "phone": "+500"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bs.svg",
+    "name": {
+      "native": {
+        "en": "Bahamas"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Bahamas"
+        }
+      }
+    },
+    "phone": "+1242"
+  },
+  "message": "success",
+  "status": 200
+}

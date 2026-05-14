@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cm.svg",
+    "name": {
+      "native": {
+        "en": "Cameroon",
+        "fr": "Cameroun"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Cameroon"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Cameroun"
+        }
+      }
+    },
+    "phone": "+237"
+  },
+  "message": "success",
+  "status": 200
+}

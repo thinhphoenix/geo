@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/nl.svg",
+    "name": {
+      "native": {
+        "nl": "Nederland"
+      }
+    },
+    "lang": {
+      "nl": {
+        "native": {
+          "nl": "Nederland"
+        }
+      }
+    },
+    "phone": "+31"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/fm.svg",
+    "name": {
+      "native": {
+        "en": "Micronesia"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Micronesia"
+        }
+      }
+    },
+    "phone": "+691"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/lc.svg",
+    "name": {
+      "native": {
+        "en": "Saint Lucia"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Saint Lucia"
+        }
+      }
+    },
+    "phone": "+1758"
+  },
+  "message": "success",
+  "status": 200
+}

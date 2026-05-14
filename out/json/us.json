@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/us.svg",
+    "name": {
+      "native": {
+        "en": "United States"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "United States"
+        }
+      }
+    },
+    "phone": "+1"
+  },
+  "message": "success",
+  "status": 200
+}

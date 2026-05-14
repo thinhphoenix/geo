@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ec.svg",
+    "name": {
+      "native": {
+        "es": "Ecuador"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "Ecuador"
+        }
+      }
+    },
+    "phone": "+593"
+  },
+  "message": "success",
+  "status": 200
+}

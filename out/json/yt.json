@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/yt.svg",
+    "name": {
+      "native": {
+        "fr": "Mayotte"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Mayotte"
+        }
+      }
+    },
+    "phone": "+262"
+  },
+  "message": "success",
+  "status": 200
+}

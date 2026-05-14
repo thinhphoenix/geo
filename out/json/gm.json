@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gm.svg",
+    "name": {
+      "native": {
+        "en": "Gambia"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Gambia"
+        }
+      }
+    },
+    "phone": "+220"
+  },
+  "message": "success",
+  "status": 200
+}

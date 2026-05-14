@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/nc.svg",
+    "name": {
+      "native": {
+        "fr": "Nouvelle-Calédonie"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Nouvelle-Calédonie"
+        }
+      }
+    },
+    "phone": "+687"
+  },
+  "message": "success",
+  "status": 200
+}

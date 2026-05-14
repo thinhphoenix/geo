@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/np.svg",
+    "name": {
+      "native": {
+        "ne": "नेपाल"
+      }
+    },
+    "lang": {
+      "ne": {
+        "native": {
+          "ne": "नेपाल"
+        }
+      }
+    },
+    "phone": "+977"
+  },
+  "message": "success",
+  "status": 200
+}

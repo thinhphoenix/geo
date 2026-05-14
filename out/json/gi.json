@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gi.svg",
+    "name": {
+      "native": {
+        "en": "Gibraltar"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Gibraltar"
+        }
+      }
+    },
+    "phone": "+350"
+  },
+  "message": "success",
+  "status": 200
+}

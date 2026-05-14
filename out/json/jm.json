@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/jm.svg",
+    "name": {
+      "native": {
+        "en": "Jamaica",
+        "jam": "Jamaica"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Jamaica"
+        }
+      },
+      "jam": {
+        "native": {
+          "jam": "Jamaica"
+        }
+      }
+    },
+    "phone": "+1876"
+  },
+  "message": "success",
+  "status": 200
+}

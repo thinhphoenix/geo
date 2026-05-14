@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/vu.svg",
+    "name": {
+      "native": {
+        "bis": "Vanuatu",
+        "en": "Vanuatu",
+        "fr": "Vanuatu"
+      }
+    },
+    "lang": {
+      "bis": {
+        "native": {
+          "bis": "Vanuatu"
+        }
+      },
+      "en": {
+        "native": {
+          "en": "Vanuatu"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Vanuatu"
+        }
+      }
+    },
+    "phone": "+678"
+  },
+  "message": "success",
+  "status": 200
+}

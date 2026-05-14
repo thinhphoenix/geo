@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/lr.svg",
+    "name": {
+      "native": {
+        "en": "Liberia"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Liberia"
+        }
+      }
+    },
+    "phone": "+231"
+  },
+  "message": "success",
+  "status": 200
+}

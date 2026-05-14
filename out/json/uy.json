@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/uy.svg",
+    "name": {
+      "native": {
+        "es": "Uruguay"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "Uruguay"
+        }
+      }
+    },
+    "phone": "+598"
+  },
+  "message": "success",
+  "status": 200
+}

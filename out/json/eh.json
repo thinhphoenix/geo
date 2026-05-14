@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/eh.svg",
+    "name": {
+      "native": {
+        "ber": "Western Sahara",
+        "mey": "الصحراء الغربية",
+        "es": "Sahara Occidental"
+      }
+    },
+    "lang": {
+      "ber": {
+        "native": {
+          "ber": "Western Sahara"
+        }
+      },
+      "mey": {
+        "native": {
+          "mey": "الصحراء الغربية"
+        }
+      },
+      "es": {
+        "native": {
+          "es": "Sahara Occidental"
+        }
+      }
+    },
+    "phone": "+2"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/pe.svg",
+    "name": {
+      "native": {
+        "aym": "Piruw",
+        "que": "Piruw",
+        "es": "Perú"
+      }
+    },
+    "lang": {
+      "aym": {
+        "native": {
+          "aym": "Piruw"
+        }
+      },
+      "que": {
+        "native": {
+          "que": "Piruw"
+        }
+      },
+      "es": {
+        "native": {
+          "es": "Perú"
+        }
+      }
+    },
+    "phone": "+51"
+  },
+  "message": "success",
+  "status": 200
+}

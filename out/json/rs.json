@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/rs.svg",
+    "name": {
+      "native": {
+        "sr": "Србија"
+      }
+    },
+    "lang": {
+      "sr": {
+        "native": {
+          "sr": "Србија"
+        }
+      }
+    },
+    "phone": "+381"
+  },
+  "message": "success",
+  "status": 200
+}

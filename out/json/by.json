@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/by.svg",
+    "name": {
+      "native": {
+        "be": "Белару́сь",
+        "ru": "Беларусь"
+      }
+    },
+    "lang": {
+      "be": {
+        "native": {
+          "be": "Белару́сь"
+        }
+      },
+      "ru": {
+        "native": {
+          "ru": "Беларусь"
+        }
+      }
+    },
+    "phone": "+375"
+  },
+  "message": "success",
+  "status": 200
+}

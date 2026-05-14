@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cw.svg",
+    "name": {
+      "native": {
+        "en": "Curaçao",
+        "nl": "Curaçao",
+        "pap": "Pais Kòrsou"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Curaçao"
+        }
+      },
+      "nl": {
+        "native": {
+          "nl": "Curaçao"
+        }
+      },
+      "pap": {
+        "native": {
+          "pap": "Pais Kòrsou"
+        }
+      }
+    },
+    "phone": "+599"
+  },
+  "message": "success",
+  "status": 200
+}

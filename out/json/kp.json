@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/kp.svg",
+    "name": {
+      "native": {
+        "ko": "조선"
+      }
+    },
+    "lang": {
+      "ko": {
+        "native": {
+          "ko": "조선"
+        }
+      }
+    },
+    "phone": "+850"
+  },
+  "message": "success",
+  "status": 200
+}

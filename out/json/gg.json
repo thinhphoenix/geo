@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gg.svg",
+    "name": {
+      "native": {
+        "en": "Guernsey",
+        "fr": "Guernesey",
+        "nfr": "Dgèrnésiais"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Guernsey"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Guernesey"
+        }
+      },
+      "nfr": {
+        "native": {
+          "nfr": "Dgèrnésiais"
+        }
+      }
+    },
+    "phone": "+44"
+  },
+  "message": "success",
+  "status": 200
+}

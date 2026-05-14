@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bl.svg",
+    "name": {
+      "native": {
+        "fr": "Saint-Barthélemy"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Saint-Barthélemy"
+        }
+      }
+    },
+    "phone": "+590"
+  },
+  "message": "success",
+  "status": 200
+}

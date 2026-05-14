@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gt.svg",
+    "name": {
+      "native": {
+        "es": "Guatemala"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "Guatemala"
+        }
+      }
+    },
+    "phone": "+502"
+  },
+  "message": "success",
+  "status": 200
+}

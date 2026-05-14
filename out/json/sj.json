@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sj.svg",
+    "name": {
+      "native": {
+        "no": "Svalbard og Jan Mayen"
+      }
+    },
+    "lang": {
+      "no": {
+        "native": {
+          "no": "Svalbard og Jan Mayen"
+        }
+      }
+    },
+    "phone": "+4779"
+  },
+  "message": "success",
+  "status": 200
+}

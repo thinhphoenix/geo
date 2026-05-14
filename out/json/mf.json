@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mf.svg",
+    "name": {
+      "native": {
+        "fr": "Saint-Martin"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Saint-Martin"
+        }
+      }
+    },
+    "phone": "+590"
+  },
+  "message": "success",
+  "status": 200
+}

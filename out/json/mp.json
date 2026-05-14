@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mp.svg",
+    "name": {
+      "native": {
+        "cal": "Northern Mariana Islands",
+        "cha": "Na Islas Mariånas",
+        "en": "Northern Mariana Islands"
+      }
+    },
+    "lang": {
+      "cal": {
+        "native": {
+          "cal": "Northern Mariana Islands"
+        }
+      },
+      "cha": {
+        "native": {
+          "cha": "Na Islas Mariånas"
+        }
+      },
+      "en": {
+        "native": {
+          "en": "Northern Mariana Islands"
+        }
+      }
+    },
+    "phone": "+1670"
+  },
+  "message": "success",
+  "status": 200
+}

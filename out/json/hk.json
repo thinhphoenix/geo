@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/hk.svg",
+    "name": {
+      "native": {
+        "en": "Hong Kong",
+        "zh": "香港"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Hong Kong"
+        }
+      },
+      "zh": {
+        "native": {
+          "zh": "香港"
+        }
+      }
+    },
+    "phone": "+852"
+  },
+  "message": "success",
+  "status": 200
+}

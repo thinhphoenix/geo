@@ -1,0 +1,68 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/na.svg",
+    "name": {
+      "native": {
+        "af": "Namibië",
+        "de": "Namibia",
+        "en": "Namibia",
+        "her": "Namibia",
+        "hgm": "Namibia",
+        "kwn": "Namibia",
+        "loz": "Namibia",
+        "ndo": "Namibia",
+        "tsn": "Namibia"
+      }
+    },
+    "lang": {
+      "af": {
+        "native": {
+          "af": "Namibië"
+        }
+      },
+      "de": {
+        "native": {
+          "de": "Namibia"
+        }
+      },
+      "en": {
+        "native": {
+          "en": "Namibia"
+        }
+      },
+      "her": {
+        "native": {
+          "her": "Namibia"
+        }
+      },
+      "hgm": {
+        "native": {
+          "hgm": "Namibia"
+        }
+      },
+      "kwn": {
+        "native": {
+          "kwn": "Namibia"
+        }
+      },
+      "loz": {
+        "native": {
+          "loz": "Namibia"
+        }
+      },
+      "ndo": {
+        "native": {
+          "ndo": "Namibia"
+        }
+      },
+      "tsn": {
+        "native": {
+          "tsn": "Namibia"
+        }
+      }
+    },
+    "phone": "+264"
+  },
+  "message": "success",
+  "status": 200
+}

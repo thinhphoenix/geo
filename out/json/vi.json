@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/vi.svg",
+    "name": {
+      "native": {
+        "en": "United States Virgin Islands"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "United States Virgin Islands"
+        }
+      }
+    },
+    "phone": "+1340"
+  },
+  "message": "success",
+  "status": 200
+}

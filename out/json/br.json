@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/br.svg",
+    "name": {
+      "native": {
+        "pt": "Brasil"
+      }
+    },
+    "lang": {
+      "pt": {
+        "native": {
+          "pt": "Brasil"
+        }
+      }
+    },
+    "phone": "+55"
+  },
+  "message": "success",
+  "status": 200
+}

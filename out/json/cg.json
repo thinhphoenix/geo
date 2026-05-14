@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cg.svg",
+    "name": {
+      "native": {
+        "fr": "République du Congo",
+        "kon": "Repubilika ya Kongo",
+        "lin": "Republíki ya Kongó"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "République du Congo"
+        }
+      },
+      "kon": {
+        "native": {
+          "kon": "Repubilika ya Kongo"
+        }
+      },
+      "lin": {
+        "native": {
+          "lin": "Republíki ya Kongó"
+        }
+      }
+    },
+    "phone": "+242"
+  },
+  "message": "success",
+  "status": 200
+}

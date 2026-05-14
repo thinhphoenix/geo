@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mu.svg",
+    "name": {
+      "native": {
+        "en": "Mauritius",
+        "fr": "Maurice",
+        "mfe": "Moris"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Mauritius"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Maurice"
+        }
+      },
+      "mfe": {
+        "native": {
+          "mfe": "Moris"
+        }
+      }
+    },
+    "phone": "+230"
+  },
+  "message": "success",
+  "status": 200
+}

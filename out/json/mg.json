@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mg.svg",
+    "name": {
+      "native": {
+        "fr": "Madagascar",
+        "mlg": "Madagasikara"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Madagascar"
+        }
+      },
+      "mlg": {
+        "native": {
+          "mlg": "Madagasikara"
+        }
+      }
+    },
+    "phone": "+261"
+  },
+  "message": "success",
+  "status": 200
+}

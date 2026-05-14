@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/se.svg",
+    "name": {
+      "native": {
+        "sv": "Sverige"
+      }
+    },
+    "lang": {
+      "sv": {
+        "native": {
+          "sv": "Sverige"
+        }
+      }
+    },
+    "phone": "+46"
+  },
+  "message": "success",
+  "status": 200
+}

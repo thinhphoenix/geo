@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mm.svg",
+    "name": {
+      "native": {
+        "my": "မြန်မာ"
+      }
+    },
+    "lang": {
+      "my": {
+        "native": {
+          "my": "မြန်မာ"
+        }
+      }
+    },
+    "phone": "+95"
+  },
+  "message": "success",
+  "status": 200
+}

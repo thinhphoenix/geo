@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tw.svg",
+    "name": {
+      "native": {
+        "zh": "台灣"
+      }
+    },
+    "lang": {
+      "zh": {
+        "native": {
+          "zh": "台灣"
+        }
+      }
+    },
+    "phone": "+886"
+  },
+  "message": "success",
+  "status": 200
+}

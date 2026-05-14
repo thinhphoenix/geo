@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/hn.svg",
+    "name": {
+      "native": {
+        "es": "Honduras"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "Honduras"
+        }
+      }
+    },
+    "phone": "+504"
+  },
+  "message": "success",
+  "status": 200
+}

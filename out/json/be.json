@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/be.svg",
+    "name": {
+      "native": {
+        "de": "Belgien",
+        "fr": "Belgique",
+        "nl": "België"
+      }
+    },
+    "lang": {
+      "de": {
+        "native": {
+          "de": "Belgien"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Belgique"
+        }
+      },
+      "nl": {
+        "native": {
+          "nl": "België"
+        }
+      }
+    },
+    "phone": "+32"
+  },
+  "message": "success",
+  "status": 200
+}

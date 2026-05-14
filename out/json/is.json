@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/is.svg",
+    "name": {
+      "native": {
+        "is": "Ísland"
+      }
+    },
+    "lang": {
+      "is": {
+        "native": {
+          "is": "Ísland"
+        }
+      }
+    },
+    "phone": "+354"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,38 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ch.svg",
+    "name": {
+      "native": {
+        "fr": "Suisse",
+        "gsw": "Schweiz",
+        "it": "Svizzera",
+        "roh": "Svizra"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Suisse"
+        }
+      },
+      "gsw": {
+        "native": {
+          "gsw": "Schweiz"
+        }
+      },
+      "it": {
+        "native": {
+          "it": "Svizzera"
+        }
+      },
+      "roh": {
+        "native": {
+          "roh": "Svizra"
+        }
+      }
+    },
+    "phone": "+41"
+  },
+  "message": "success",
+  "status": 200
+}

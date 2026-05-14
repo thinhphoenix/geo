@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ao.svg",
+    "name": {
+      "native": {
+        "pt": "Angola"
+      }
+    },
+    "lang": {
+      "pt": {
+        "native": {
+          "pt": "Angola"
+        }
+      }
+    },
+    "phone": "+244"
+  },
+  "message": "success",
+  "status": 200
+}

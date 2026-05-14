@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/li.svg",
+    "name": {
+      "native": {
+        "de": "Liechtenstein"
+      }
+    },
+    "lang": {
+      "de": {
+        "native": {
+          "de": "Liechtenstein"
+        }
+      }
+    },
+    "phone": "+423"
+  },
+  "message": "success",
+  "status": 200
+}

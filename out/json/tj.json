@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tj.svg",
+    "name": {
+      "native": {
+        "ru": "Таджикистан",
+        "tgk": "Тоҷикистон"
+      }
+    },
+    "lang": {
+      "ru": {
+        "native": {
+          "ru": "Таджикистан"
+        }
+      },
+      "tgk": {
+        "native": {
+          "tgk": "Тоҷикистон"
+        }
+      }
+    },
+    "phone": "+992"
+  },
+  "message": "success",
+  "status": 200
+}

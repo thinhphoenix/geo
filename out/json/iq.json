@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/iq.svg",
+    "name": {
+      "native": {
+        "ar": "العراق",
+        "arc": "ܩܘܼܛܢܵܐ",
+        "ckb": "کۆماری"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "العراق"
+        }
+      },
+      "arc": {
+        "native": {
+          "arc": "ܩܘܼܛܢܵܐ"
+        }
+      },
+      "ckb": {
+        "native": {
+          "ckb": "کۆماری"
+        }
+      }
+    },
+    "phone": "+964"
+  },
+  "message": "success",
+  "status": 200
+}

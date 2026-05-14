@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/si.svg",
+    "name": {
+      "native": {
+        "sl": "Slovenija"
+      }
+    },
+    "lang": {
+      "sl": {
+        "native": {
+          "sl": "Slovenija"
+        }
+      }
+    },
+    "phone": "+386"
+  },
+  "message": "success",
+  "status": 200
+}

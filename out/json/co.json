@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/co.svg",
+    "name": {
+      "native": {
+        "es": "Colombia"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "Colombia"
+        }
+      }
+    },
+    "phone": "+57"
+  },
+  "message": "success",
+  "status": 200
+}

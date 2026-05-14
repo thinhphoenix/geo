@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/vg.svg",
+    "name": {
+      "native": {
+        "en": "British Virgin Islands"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "British Virgin Islands"
+        }
+      }
+    },
+    "phone": "+1284"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gs.svg",
+    "name": {
+      "native": {
+        "en": "South Georgia"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "South Georgia"
+        }
+      }
+    },
+    "phone": "+500"
+  },
+  "message": "success",
+  "status": 200
+}

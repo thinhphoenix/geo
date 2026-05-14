@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/fr.svg",
+    "name": {
+      "native": {
+        "fr": "France"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "France"
+        }
+      }
+    },
+    "phone": "+33"
+  },
+  "message": "success",
+  "status": 200
+}

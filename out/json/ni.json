@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ni.svg",
+    "name": {
+      "native": {
+        "es": "Nicaragua"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "Nicaragua"
+        }
+      }
+    },
+    "phone": "+505"
+  },
+  "message": "success",
+  "status": 200
+}

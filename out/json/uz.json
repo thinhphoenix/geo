@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/uz.svg",
+    "name": {
+      "native": {
+        "ru": "Узбекистан",
+        "uz": "O‘zbekiston"
+      }
+    },
+    "lang": {
+      "ru": {
+        "native": {
+          "ru": "Узбекистан"
+        }
+      },
+      "uz": {
+        "native": {
+          "uz": "O‘zbekiston"
+        }
+      }
+    },
+    "phone": "+998"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/fj.svg",
+    "name": {
+      "native": {
+        "en": "Fiji",
+        "fij": "Viti",
+        "hif": "फिजी"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Fiji"
+        }
+      },
+      "fij": {
+        "native": {
+          "fij": "Viti"
+        }
+      },
+      "hif": {
+        "native": {
+          "hif": "फिजी"
+        }
+      }
+    },
+    "phone": "+679"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/no.svg",
+    "name": {
+      "native": {
+        "nno": "Noreg",
+        "nob": "Norge",
+        "smi": "Norgga"
+      }
+    },
+    "lang": {
+      "nno": {
+        "native": {
+          "nno": "Noreg"
+        }
+      },
+      "nob": {
+        "native": {
+          "nob": "Norge"
+        }
+      },
+      "smi": {
+        "native": {
+          "smi": "Norgga"
+        }
+      }
+    },
+    "phone": "+47"
+  },
+  "message": "success",
+  "status": 200
+}

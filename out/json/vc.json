@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/vc.svg",
+    "name": {
+      "native": {
+        "en": "Saint Vincent and the Grenadines"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Saint Vincent and the Grenadines"
+        }
+      }
+    },
+    "phone": "+1784"
+  },
+  "message": "success",
+  "status": 200
+}

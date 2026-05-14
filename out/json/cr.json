@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cr.svg",
+    "name": {
+      "native": {
+        "es": "Costa Rica"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "Costa Rica"
+        }
+      }
+    },
+    "phone": "+506"
+  },
+  "message": "success",
+  "status": 200
+}

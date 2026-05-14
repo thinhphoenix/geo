@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ly.svg",
+    "name": {
+      "native": {
+        "ar": "ليبيا"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "ليبيا"
+        }
+      }
+    },
+    "phone": "+218"
+  },
+  "message": "success",
+  "status": 200
+}

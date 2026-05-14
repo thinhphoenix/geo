@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/md.svg",
+    "name": {
+      "native": {
+        "ro": "Moldova"
+      }
+    },
+    "lang": {
+      "ro": {
+        "native": {
+          "ro": "Moldova"
+        }
+      }
+    },
+    "phone": "+373"
+  },
+  "message": "success",
+  "status": 200
+}

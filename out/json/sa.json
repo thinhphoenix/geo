@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sa.svg",
+    "name": {
+      "native": {
+        "ar": "السعودية"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "السعودية"
+        }
+      }
+    },
+    "phone": "+966"
+  },
+  "message": "success",
+  "status": 200
+}

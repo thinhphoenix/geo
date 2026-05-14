@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/my.svg",
+    "name": {
+      "native": {
+        "en": "Malaysia",
+        "ms": "مليسيا"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Malaysia"
+        }
+      },
+      "ms": {
+        "native": {
+          "ms": "مليسيا"
+        }
+      }
+    },
+    "phone": "+60"
+  },
+  "message": "success",
+  "status": 200
+}

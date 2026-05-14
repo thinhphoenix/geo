@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ua.svg",
+    "name": {
+      "native": {
+        "uk": "Україна"
+      }
+    },
+    "lang": {
+      "uk": {
+        "native": {
+          "uk": "Україна"
+        }
+      }
+    },
+    "phone": "+380"
+  },
+  "message": "success",
+  "status": 200
+}

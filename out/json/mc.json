@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mc.svg",
+    "name": {
+      "native": {
+        "fr": "Monaco"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Monaco"
+        }
+      }
+    },
+    "phone": "+377"
+  },
+  "message": "success",
+  "status": 200
+}

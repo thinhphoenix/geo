@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/dm.svg",
+    "name": {
+      "native": {
+        "en": "Dominica"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Dominica"
+        }
+      }
+    },
+    "phone": "+1767"
+  },
+  "message": "success",
+  "status": 200
+}

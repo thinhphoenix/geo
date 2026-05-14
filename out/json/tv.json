@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tv.svg",
+    "name": {
+      "native": {
+        "en": "Tuvalu",
+        "tvl": "Tuvalu"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Tuvalu"
+        }
+      },
+      "tvl": {
+        "native": {
+          "tvl": "Tuvalu"
+        }
+      }
+    },
+    "phone": "+688"
+  },
+  "message": "success",
+  "status": 200
+}

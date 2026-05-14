@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sk.svg",
+    "name": {
+      "native": {
+        "sk": "Slovensko"
+      }
+    },
+    "lang": {
+      "sk": {
+        "native": {
+          "sk": "Slovensko"
+        }
+      }
+    },
+    "phone": "+421"
+  },
+  "message": "success",
+  "status": 200
+}

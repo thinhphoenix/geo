@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/va.svg",
+    "name": {
+      "native": {
+        "it": "Vaticano",
+        "lat": "Vaticanæ"
+      }
+    },
+    "lang": {
+      "it": {
+        "native": {
+          "it": "Vaticano"
+        }
+      },
+      "lat": {
+        "native": {
+          "lat": "Vaticanæ"
+        }
+      }
+    },
+    "phone": "+3"
+  },
+  "message": "success",
+  "status": 200
+}

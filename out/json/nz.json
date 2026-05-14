@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/nz.svg",
+    "name": {
+      "native": {
+        "en": "New Zealand",
+        "mri": "Aotearoa",
+        "nzs": "New Zealand"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "New Zealand"
+        }
+      },
+      "mri": {
+        "native": {
+          "mri": "Aotearoa"
+        }
+      },
+      "nzs": {
+        "native": {
+          "nzs": "New Zealand"
+        }
+      }
+    },
+    "phone": "+64"
+  },
+  "message": "success",
+  "status": 200
+}

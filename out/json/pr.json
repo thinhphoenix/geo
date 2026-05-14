@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/pr.svg",
+    "name": {
+      "native": {
+        "en": "Puerto Rico",
+        "es": "Puerto Rico"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Puerto Rico"
+        }
+      },
+      "es": {
+        "native": {
+          "es": "Puerto Rico"
+        }
+      }
+    },
+    "phone": "+1"
+  },
+  "message": "success",
+  "status": 200
+}

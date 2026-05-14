@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bf.svg",
+    "name": {
+      "native": {
+        "fr": "Burkina Faso"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Burkina Faso"
+        }
+      }
+    },
+    "phone": "+226"
+  },
+  "message": "success",
+  "status": 200
+}

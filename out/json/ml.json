@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ml.svg",
+    "name": {
+      "native": {
+        "fr": "Mali"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Mali"
+        }
+      }
+    },
+    "phone": "+223"
+  },
+  "message": "success",
+  "status": 200
+}

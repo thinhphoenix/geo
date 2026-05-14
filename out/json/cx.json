@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cx.svg",
+    "name": {
+      "native": {
+        "en": "Christmas Island"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Christmas Island"
+        }
+      }
+    },
+    "phone": "+61"
+  },
+  "message": "success",
+  "status": 200
+}

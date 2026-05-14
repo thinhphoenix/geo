@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cv.svg",
+    "name": {
+      "native": {
+        "pt": "Cabo Verde"
+      }
+    },
+    "lang": {
+      "pt": {
+        "native": {
+          "pt": "Cabo Verde"
+        }
+      }
+    },
+    "phone": "+238"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/jp.svg",
+    "name": {
+      "native": {
+        "ja": "日本"
+      }
+    },
+    "lang": {
+      "ja": {
+        "native": {
+          "ja": "日本"
+        }
+      }
+    },
+    "phone": "+81"
+  },
+  "message": "success",
+  "status": 200
+}

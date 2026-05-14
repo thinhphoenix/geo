@@ -1,0 +1,44 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cd.svg",
+    "name": {
+      "native": {
+        "fr": "RD Congo",
+        "kon": "Repubilika ya Kongo Demokratiki",
+        "lin": "Republiki ya Kongó Demokratiki",
+        "lua": "Ditunga dia Kongu wa Mungalaata",
+        "sw": "Jamhuri ya Kidemokrasia ya Kongo"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "RD Congo"
+        }
+      },
+      "kon": {
+        "native": {
+          "kon": "Repubilika ya Kongo Demokratiki"
+        }
+      },
+      "lin": {
+        "native": {
+          "lin": "Republiki ya Kongó Demokratiki"
+        }
+      },
+      "lua": {
+        "native": {
+          "lua": "Ditunga dia Kongu wa Mungalaata"
+        }
+      },
+      "sw": {
+        "native": {
+          "sw": "Jamhuri ya Kidemokrasia ya Kongo"
+        }
+      }
+    },
+    "phone": "+243"
+  },
+  "message": "success",
+  "status": 200
+}

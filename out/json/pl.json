@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/pl.svg",
+    "name": {
+      "native": {
+        "pl": "Polska"
+      }
+    },
+    "lang": {
+      "pl": {
+        "native": {
+          "pl": "Polska"
+        }
+      }
+    },
+    "phone": "+48"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gy.svg",
+    "name": {
+      "native": {
+        "en": "Guyana"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Guyana"
+        }
+      }
+    },
+    "phone": "+592"
+  },
+  "message": "success",
+  "status": 200
+}

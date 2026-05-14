@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cf.svg",
+    "name": {
+      "native": {
+        "fr": "République centrafricaine",
+        "sag": "Bêafrîka"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "République centrafricaine"
+        }
+      },
+      "sag": {
+        "native": {
+          "sag": "Bêafrîka"
+        }
+      }
+    },
+    "phone": "+236"
+  },
+  "message": "success",
+  "status": 200
+}

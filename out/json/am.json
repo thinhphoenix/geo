@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/am.svg",
+    "name": {
+      "native": {
+        "hy": "Հայաստան"
+      }
+    },
+    "lang": {
+      "hy": {
+        "native": {
+          "hy": "Հայաստան"
+        }
+      }
+    },
+    "phone": "+374"
+  },
+  "message": "success",
+  "status": 200
+}

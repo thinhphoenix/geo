@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/as.svg",
+    "name": {
+      "native": {
+        "en": "American Samoa",
+        "smo": "Sāmoa Amelika"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "American Samoa"
+        }
+      },
+      "smo": {
+        "native": {
+          "smo": "Sāmoa Amelika"
+        }
+      }
+    },
+    "phone": "+1684"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mh.svg",
+    "name": {
+      "native": {
+        "en": "Marshall Islands",
+        "mah": "M̧ajeļ"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Marshall Islands"
+        }
+      },
+      "mah": {
+        "native": {
+          "mah": "M̧ajeļ"
+        }
+      }
+    },
+    "phone": "+692"
+  },
+  "message": "success",
+  "status": 200
+}

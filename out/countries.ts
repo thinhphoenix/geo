@@ -1,4 +1,11 @@
-export default {
+export interface CountryEntry {
+  flag: string;
+  name: Record<string, string | Record<string, string>>;
+  lang: Record<string, Record<string, string | Record<string, string>>>;
+  phone: string;
+}
+
+const countries: Record<string, CountryEntry> = {
   "aw": {
     "flag": "https://flagcdn.com/aw.svg",
     "name": {
@@ -4969,3 +4976,5 @@ export default {
     "phone": "+263"
   }
 };
+
+export default countries;

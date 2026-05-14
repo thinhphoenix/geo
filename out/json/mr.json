@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mr.svg",
+    "name": {
+      "native": {
+        "ar": "موريتانيا"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "موريتانيا"
+        }
+      }
+    },
+    "phone": "+222"
+  },
+  "message": "success",
+  "status": 200
+}

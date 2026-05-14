@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sx.svg",
+    "name": {
+      "native": {
+        "en": "Sint Maarten",
+        "fr": "Saint-Martin",
+        "nl": "Sint Maarten"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Sint Maarten"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Saint-Martin"
+        }
+      },
+      "nl": {
+        "native": {
+          "nl": "Sint Maarten"
+        }
+      }
+    },
+    "phone": "+1721"
+  },
+  "message": "success",
+  "status": 200
+}

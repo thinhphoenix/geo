@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mx.svg",
+    "name": {
+      "native": {
+        "es": "México"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "México"
+        }
+      }
+    },
+    "phone": "+52"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ht.svg",
+    "name": {
+      "native": {
+        "fr": "Haïti",
+        "hat": "Ayiti"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Haïti"
+        }
+      },
+      "hat": {
+        "native": {
+          "hat": "Ayiti"
+        }
+      }
+    },
+    "phone": "+509"
+  },
+  "message": "success",
+  "status": 200
+}

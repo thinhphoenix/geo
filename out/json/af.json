@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/af.svg",
+    "name": {
+      "native": {
+        "prs": "افغانستان",
+        "ps": "افغانستان",
+        "tuk": "Owganystan"
+      }
+    },
+    "lang": {
+      "prs": {
+        "native": {
+          "prs": "افغانستان"
+        }
+      },
+      "ps": {
+        "native": {
+          "ps": "افغانستان"
+        }
+      },
+      "tuk": {
+        "native": {
+          "tuk": "Owganystan"
+        }
+      }
+    },
+    "phone": "+93"
+  },
+  "message": "success",
+  "status": 200
+}

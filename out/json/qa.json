@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/qa.svg",
+    "name": {
+      "native": {
+        "ar": "قطر"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "قطر"
+        }
+      }
+    },
+    "phone": "+974"
+  },
+  "message": "success",
+  "status": 200
+}

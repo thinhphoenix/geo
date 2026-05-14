@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ws.svg",
+    "name": {
+      "native": {
+        "en": "Samoa",
+        "smo": "Sāmoa"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Samoa"
+        }
+      },
+      "smo": {
+        "native": {
+          "smo": "Sāmoa"
+        }
+      }
+    },
+    "phone": "+685"
+  },
+  "message": "success",
+  "status": 200
+}

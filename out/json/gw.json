@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gw.svg",
+    "name": {
+      "native": {
+        "pt": "Guiné-Bissau",
+        "pov": "Guiné-Bissau"
+      }
+    },
+    "lang": {
+      "pt": {
+        "native": {
+          "pt": "Guiné-Bissau"
+        }
+      },
+      "pov": {
+        "native": {
+          "pov": "Guiné-Bissau"
+        }
+      }
+    },
+    "phone": "+245"
+  },
+  "message": "success",
+  "status": 200
+}

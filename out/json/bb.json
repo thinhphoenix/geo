@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bb.svg",
+    "name": {
+      "native": {
+        "en": "Barbados"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Barbados"
+        }
+      }
+    },
+    "phone": "+1246"
+  },
+  "message": "success",
+  "status": 200
+}

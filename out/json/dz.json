@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/dz.svg",
+    "name": {
+      "native": {
+        "ar": "الجزائر"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "الجزائر"
+        }
+      }
+    },
+    "phone": "+213"
+  },
+  "message": "success",
+  "status": 200
+}

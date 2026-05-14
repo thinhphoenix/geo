@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ma.svg",
+    "name": {
+      "native": {
+        "ar": "المغرب",
+        "ber": "ⵍⵎⴰⵖⵔⵉⴱ"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "المغرب"
+        }
+      },
+      "ber": {
+        "native": {
+          "ber": "ⵍⵎⴰⵖⵔⵉⴱ"
+        }
+      }
+    },
+    "phone": "+212"
+  },
+  "message": "success",
+  "status": 200
+}

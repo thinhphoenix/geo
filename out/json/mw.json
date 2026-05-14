@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mw.svg",
+    "name": {
+      "native": {
+        "en": "Malawi",
+        "nya": "Malaŵi"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Malawi"
+        }
+      },
+      "nya": {
+        "native": {
+          "nya": "Malaŵi"
+        }
+      }
+    },
+    "phone": "+265"
+  },
+  "message": "success",
+  "status": 200
+}

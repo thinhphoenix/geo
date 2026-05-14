@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/it.svg",
+    "name": {
+      "native": {
+        "it": "Italia"
+      }
+    },
+    "lang": {
+      "it": {
+        "native": {
+          "it": "Italia"
+        }
+      }
+    },
+    "phone": "+39"
+  },
+  "message": "success",
+  "status": 200
+}

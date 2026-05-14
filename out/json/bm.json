@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bm.svg",
+    "name": {
+      "native": {
+        "en": "Bermuda"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Bermuda"
+        }
+      }
+    },
+    "phone": "+1441"
+  },
+  "message": "success",
+  "status": 200
+}

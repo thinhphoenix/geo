@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mv.svg",
+    "name": {
+      "native": {
+        "div": "ދިވެހިރާއްޖޭގެ"
+      }
+    },
+    "lang": {
+      "div": {
+        "native": {
+          "div": "ދިވެހިރާއްޖޭގެ"
+        }
+      }
+    },
+    "phone": "+960"
+  },
+  "message": "success",
+  "status": 200
+}

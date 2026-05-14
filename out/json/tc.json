@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tc.svg",
+    "name": {
+      "native": {
+        "en": "Turks and Caicos Islands"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Turks and Caicos Islands"
+        }
+      }
+    },
+    "phone": "+1649"
+  },
+  "message": "success",
+  "status": 200
+}

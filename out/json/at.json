@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/at.svg",
+    "name": {
+      "native": {
+        "bar": "Österreich"
+      }
+    },
+    "lang": {
+      "bar": {
+        "native": {
+          "bar": "Österreich"
+        }
+      }
+    },
+    "phone": "+43"
+  },
+  "message": "success",
+  "status": 200
+}

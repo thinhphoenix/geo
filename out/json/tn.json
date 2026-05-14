@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tn.svg",
+    "name": {
+      "native": {
+        "ar": "تونس"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "تونس"
+        }
+      }
+    },
+    "phone": "+216"
+  },
+  "message": "success",
+  "status": 200
+}

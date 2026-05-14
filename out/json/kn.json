@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/kn.svg",
+    "name": {
+      "native": {
+        "en": "Saint Kitts and Nevis"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Saint Kitts and Nevis"
+        }
+      }
+    },
+    "phone": "+1869"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bh.svg",
+    "name": {
+      "native": {
+        "ar": "البحرين"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "البحرين"
+        }
+      }
+    },
+    "phone": "+973"
+  },
+  "message": "success",
+  "status": 200
+}

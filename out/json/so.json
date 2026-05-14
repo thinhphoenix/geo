@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/so.svg",
+    "name": {
+      "native": {
+        "ar": "الصومال",
+        "som": "Soomaaliya"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "الصومال"
+        }
+      },
+      "som": {
+        "native": {
+          "som": "Soomaaliya"
+        }
+      }
+    },
+    "phone": "+252"
+  },
+  "message": "success",
+  "status": 200
+}

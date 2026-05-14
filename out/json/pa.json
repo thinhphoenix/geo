@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/pa.svg",
+    "name": {
+      "native": {
+        "es": "Panamá"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "Panamá"
+        }
+      }
+    },
+    "phone": "+507"
+  },
+  "message": "success",
+  "status": 200
+}

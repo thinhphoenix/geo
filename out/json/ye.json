@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ye.svg",
+    "name": {
+      "native": {
+        "ar": "اليمن"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "اليمن"
+        }
+      }
+    },
+    "phone": "+967"
+  },
+  "message": "success",
+  "status": 200
+}

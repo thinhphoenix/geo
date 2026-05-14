@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bi.svg",
+    "name": {
+      "native": {
+        "fr": "Burundi",
+        "run": "Uburundi"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Burundi"
+        }
+      },
+      "run": {
+        "native": {
+          "run": "Uburundi"
+        }
+      }
+    },
+    "phone": "+257"
+  },
+  "message": "success",
+  "status": 200
+}

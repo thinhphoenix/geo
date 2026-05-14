@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/il.svg",
+    "name": {
+      "native": {
+        "ar": "إسرائيل",
+        "he": "ישראל"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "إسرائيل"
+        }
+      },
+      "he": {
+        "native": {
+          "he": "ישראל"
+        }
+      }
+    },
+    "phone": "+972"
+  },
+  "message": "success",
+  "status": 200
+}

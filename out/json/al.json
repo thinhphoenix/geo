@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/al.svg",
+    "name": {
+      "native": {
+        "sq": "Shqipëria"
+      }
+    },
+    "lang": {
+      "sq": {
+        "native": {
+          "sq": "Shqipëria"
+        }
+      }
+    },
+    "phone": "+355"
+  },
+  "message": "success",
+  "status": 200
+}

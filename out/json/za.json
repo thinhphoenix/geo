@@ -1,0 +1,80 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/za.svg",
+    "name": {
+      "native": {
+        "af": "South Africa",
+        "en": "South Africa",
+        "nbl": "Sewula Afrika",
+        "nso": "Afrika-Borwa",
+        "sot": "Afrika Borwa",
+        "ssw": "Ningizimu Afrika",
+        "tsn": "Aforika Borwa",
+        "tso": "Afrika Dzonga",
+        "ven": "Afurika Tshipembe",
+        "xho": "Mzantsi Afrika",
+        "zu": "Ningizimu Afrika"
+      }
+    },
+    "lang": {
+      "af": {
+        "native": {
+          "af": "South Africa"
+        }
+      },
+      "en": {
+        "native": {
+          "en": "South Africa"
+        }
+      },
+      "nbl": {
+        "native": {
+          "nbl": "Sewula Afrika"
+        }
+      },
+      "nso": {
+        "native": {
+          "nso": "Afrika-Borwa"
+        }
+      },
+      "sot": {
+        "native": {
+          "sot": "Afrika Borwa"
+        }
+      },
+      "ssw": {
+        "native": {
+          "ssw": "Ningizimu Afrika"
+        }
+      },
+      "tsn": {
+        "native": {
+          "tsn": "Aforika Borwa"
+        }
+      },
+      "tso": {
+        "native": {
+          "tso": "Afrika Dzonga"
+        }
+      },
+      "ven": {
+        "native": {
+          "ven": "Afurika Tshipembe"
+        }
+      },
+      "xho": {
+        "native": {
+          "xho": "Mzantsi Afrika"
+        }
+      },
+      "zu": {
+        "native": {
+          "zu": "Ningizimu Afrika"
+        }
+      }
+    },
+    "phone": "+27"
+  },
+  "message": "success",
+  "status": 200
+}

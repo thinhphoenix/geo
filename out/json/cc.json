@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cc.svg",
+    "name": {
+      "native": {
+        "en": "Cocos (Keeling) Islands"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Cocos (Keeling) Islands"
+        }
+      }
+    },
+    "phone": "+61"
+  },
+  "message": "success",
+  "status": 200
+}
