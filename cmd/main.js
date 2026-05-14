@@ -170,14 +170,14 @@ const langCodeMap = {
 // Helper load territory theo locale
 function loadTerritory(locale) {
   return import(`cldr-localenames-full/main/${locale}/territories.json`, {
-    assert: { type: "json" },
+    with: { type: "json" },
   });
 }
 
 // Helper load language theo locale
 function loadLanguage(locale) {
   return import(`cldr-localenames-full/main/${locale}/languages.json`, {
-    assert: { type: "json" },
+    with: { type: "json" },
   });
 }
 

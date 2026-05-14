@@ -1,7 +1,8 @@
 import { Elysia } from "elysia";
 import { cors } from "@elysiajs/cors";
+import { readFileSync } from "fs";
 
-const countries = (await import("./out/countries.js")).default;
+const { data: countries } = JSON.parse(readFileSync(new URL("./out/all", import.meta.url), "utf8"));
 
 new Elysia()
   .use(cors())
