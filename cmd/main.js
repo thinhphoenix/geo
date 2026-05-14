@@ -263,11 +263,6 @@ for (const c of countries) {
   }
 }
 
-// Xuất JSON (wrapped với data, message, status)
-const OUT_JSON = path.join(OUT_DIR, "countries.json");
-const jsonPayload = JSON.stringify({ data: out, message: "success", status: 200 }, null, 2);
-await fs.promises.writeFile(OUT_JSON, jsonPayload, "utf8");
-
 // Xuất từng country thành file JSON riêng (cho jsDelivr)
 const JSON_DIR = path.join(OUT_DIR, "json");
 await fs.promises.mkdir(JSON_DIR, { recursive: true });
@@ -286,23 +281,11 @@ await fs.promises.writeFile(ALL_JSON, allPayload, "utf8");
 const ALL_ROOT = path.join(OUT_DIR, "all");
 await fs.promises.writeFile(ALL_ROOT, allPayload, "utf8");
 
-// Xuất JS (ESM import)
-const OUT_JS = path.join(OUT_DIR, "countries.js");
-const jsContent = `export default ${JSON.stringify(out, null, 2)};\n`;
-await fs.promises.writeFile(OUT_JS, jsContent, "utf8");
-
-// Xuất TS
-const OUT_TS = path.join(OUT_DIR, "countries.ts");
-const tsInterface = `export interface CountryEntry {
-  flag: string;
-  name: Record<string, string | Record<string, string>>;
-  lang: Record<string, Record<string, string | Record<string, string>>>;
-  phone: string;
+// Xuất từng country ra out/ không đuôi
+for (const [code, data] of Object.entries(out)) {
+  const fullPayload = JSON.stringify({ data, message: "success", status: 200 }, null, 2);
+  await fs.promises.writeFile(path.join(OUT_DIR, code), fullPayload, "utf8");
 }
 
-`;
-const tsContent = `${tsInterface}const countries: Record<string, CountryEntry> = ${JSON.stringify(out, null, 2)};\n\nexport default countries;\n`;
-await fs.promises.writeFile(OUT_TS, tsContent, "utf8");
-
 const countryCount = Object.keys(out).length;
-console.log(`Generated ${OUT_JSON}, ${OUT_JS}, ${OUT_TS} and ${countryCount} individual JSON files in ${JSON_DIR}/`);
+console.log(`Generated ${countryCount} countries in out/ and out/json/`);
