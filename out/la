@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/la.svg",
+    "name": {
+      "native": {
+        "lo": "ສປປລາວ"
+      }
+    },
+    "lang": {
+      "lo": {
+        "native": {
+          "lo": "ສປປລາວ"
+        }
+      }
+    },
+    "phone": "+856"
+  },
+  "message": "success",
+  "status": 200
+}

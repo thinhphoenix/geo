@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ms.svg",
+    "name": {
+      "native": {
+        "en": "Montserrat"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Montserrat"
+        }
+      }
+    },
+    "phone": "+1664"
+  },
+  "message": "success",
+  "status": 200
+}

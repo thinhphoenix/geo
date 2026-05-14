@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ba.svg",
+    "name": {
+      "native": {
+        "bs": "Bosna i Hercegovina",
+        "hr": "Bosna i Hercegovina",
+        "sr": "Боснa и Херцеговина"
+      }
+    },
+    "lang": {
+      "bs": {
+        "native": {
+          "bs": "Bosna i Hercegovina"
+        }
+      },
+      "hr": {
+        "native": {
+          "hr": "Bosna i Hercegovina"
+        }
+      },
+      "sr": {
+        "native": {
+          "sr": "Боснa и Херцеговина"
+        }
+      }
+    },
+    "phone": "+387"
+  },
+  "message": "success",
+  "status": 200
+}

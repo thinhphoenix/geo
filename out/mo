@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mo.svg",
+    "name": {
+      "native": {
+        "pt": "Macau",
+        "zh": "澳门"
+      }
+    },
+    "lang": {
+      "pt": {
+        "native": {
+          "pt": "Macau"
+        }
+      },
+      "zh": {
+        "native": {
+          "zh": "澳门"
+        }
+      }
+    },
+    "phone": "+853"
+  },
+  "message": "success",
+  "status": 200
+}

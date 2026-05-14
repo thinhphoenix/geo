@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ls.svg",
+    "name": {
+      "native": {
+        "en": "Lesotho",
+        "sot": "Lesotho"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Lesotho"
+        }
+      },
+      "sot": {
+        "native": {
+          "sot": "Lesotho"
+        }
+      }
+    },
+    "phone": "+266"
+  },
+  "message": "success",
+  "status": 200
+}

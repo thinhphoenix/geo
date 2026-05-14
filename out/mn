@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mn.svg",
+    "name": {
+      "native": {
+        "mn": "Монгол улс"
+      }
+    },
+    "lang": {
+      "mn": {
+        "native": {
+          "mn": "Монгол улс"
+        }
+      }
+    },
+    "phone": "+976"
+  },
+  "message": "success",
+  "status": 200
+}

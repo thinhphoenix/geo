@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/nr.svg",
+    "name": {
+      "native": {
+        "en": "Nauru",
+        "nau": "Nauru"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Nauru"
+        }
+      },
+      "nau": {
+        "native": {
+          "nau": "Nauru"
+        }
+      }
+    },
+    "phone": "+674"
+  },
+  "message": "success",
+  "status": 200
+}

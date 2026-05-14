@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ps.svg",
+    "name": {
+      "native": {
+        "ar": "فلسطين"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "فلسطين"
+        }
+      }
+    },
+    "phone": "+970"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/td.svg",
+    "name": {
+      "native": {
+        "ar": "تشاد",
+        "fr": "Tchad"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "تشاد"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Tchad"
+        }
+      }
+    },
+    "phone": "+235"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/es.svg",
+    "name": {
+      "native": {
+        "es": "España"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "España"
+        }
+      }
+    },
+    "phone": "+34"
+  },
+  "message": "success",
+  "status": 200
+}

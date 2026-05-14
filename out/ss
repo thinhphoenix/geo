@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ss.svg",
+    "name": {
+      "native": {
+        "en": "South Sudan"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "South Sudan"
+        }
+      }
+    },
+    "phone": "+211"
+  },
+  "message": "success",
+  "status": 200
+}

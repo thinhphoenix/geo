@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bt.svg",
+    "name": {
+      "native": {
+        "dzo": "འབྲུག་ཡུལ་"
+      }
+    },
+    "lang": {
+      "dzo": {
+        "native": {
+          "dzo": "འབྲུག་ཡུལ་"
+        }
+      }
+    },
+    "phone": "+975"
+  },
+  "message": "success",
+  "status": 200
+}

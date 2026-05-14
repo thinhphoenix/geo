@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tm.svg",
+    "name": {
+      "native": {
+        "ru": "Туркмения",
+        "tuk": "Türkmenistan"
+      }
+    },
+    "lang": {
+      "ru": {
+        "native": {
+          "ru": "Туркмения"
+        }
+      },
+      "tuk": {
+        "native": {
+          "tuk": "Türkmenistan"
+        }
+      }
+    },
+    "phone": "+993"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/eg.svg",
+    "name": {
+      "native": {
+        "ar": "مصر"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "مصر"
+        }
+      }
+    },
+    "phone": "+20"
+  },
+  "message": "success",
+  "status": 200
+}

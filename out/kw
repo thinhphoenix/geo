@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/kw.svg",
+    "name": {
+      "native": {
+        "ar": "الكويت"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "الكويت"
+        }
+      }
+    },
+    "phone": "+965"
+  },
+  "message": "success",
+  "status": 200
+}

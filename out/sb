@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sb.svg",
+    "name": {
+      "native": {
+        "en": "Solomon Islands"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Solomon Islands"
+        }
+      }
+    },
+    "phone": "+677"
+  },
+  "message": "success",
+  "status": 200
+}

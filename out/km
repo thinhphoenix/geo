@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/km.svg",
+    "name": {
+      "native": {
+        "ar": "جزر القمر",
+        "fr": "Comores",
+        "zdj": "Komori"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "جزر القمر"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Comores"
+        }
+      },
+      "zdj": {
+        "native": {
+          "zdj": "Komori"
+        }
+      }
+    },
+    "phone": "+269"
+  },
+  "message": "success",
+  "status": 200
+}

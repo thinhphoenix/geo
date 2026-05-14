@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/om.svg",
+    "name": {
+      "native": {
+        "ar": "عمان"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "عمان"
+        }
+      }
+    },
+    "phone": "+968"
+  },
+  "message": "success",
+  "status": 200
+}

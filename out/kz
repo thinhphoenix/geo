@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/kz.svg",
+    "name": {
+      "native": {
+        "kk": "Қазақстан",
+        "ru": "Казахстан"
+      }
+    },
+    "lang": {
+      "kk": {
+        "native": {
+          "kk": "Қазақстан"
+        }
+      },
+      "ru": {
+        "native": {
+          "ru": "Казахстан"
+        }
+      }
+    },
+    "phone": "+7"
+  },
+  "message": "success",
+  "status": 200
+}

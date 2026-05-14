@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/wf.svg",
+    "name": {
+      "native": {
+        "fr": "Wallis et Futuna"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Wallis et Futuna"
+        }
+      }
+    },
+    "phone": "+681"
+  },
+  "message": "success",
+  "status": 200
+}

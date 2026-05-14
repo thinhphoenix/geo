@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tg.svg",
+    "name": {
+      "native": {
+        "fr": "Togo"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Togo"
+        }
+      }
+    },
+    "phone": "+228"
+  },
+  "message": "success",
+  "status": 200
+}

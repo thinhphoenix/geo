@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mk.svg",
+    "name": {
+      "native": {
+        "mk": "Македонија"
+      }
+    },
+    "lang": {
+      "mk": {
+        "native": {
+          "mk": "Македонија"
+        }
+      }
+    },
+    "phone": "+389"
+  },
+  "message": "success",
+  "status": 200
+}

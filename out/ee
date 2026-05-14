@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ee.svg",
+    "name": {
+      "native": {
+        "et": "Eesti"
+      }
+    },
+    "lang": {
+      "et": {
+        "native": {
+          "et": "Eesti"
+        }
+      }
+    },
+    "phone": "+372"
+  },
+  "message": "success",
+  "status": 200
+}

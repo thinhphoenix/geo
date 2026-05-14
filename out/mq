@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/mq.svg",
+    "name": {
+      "native": {
+        "fr": "Martinique"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Martinique"
+        }
+      }
+    },
+    "phone": "+596"
+  },
+  "message": "success",
+  "status": 200
+}

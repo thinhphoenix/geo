@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ci.svg",
+    "name": {
+      "native": {
+        "fr": "Côte d'Ivoire"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Côte d'Ivoire"
+        }
+      }
+    },
+    "phone": "+225"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bz.svg",
+    "name": {
+      "native": {
+        "bjz": "Belize",
+        "en": "Belize",
+        "es": "Belice"
+      }
+    },
+    "lang": {
+      "bjz": {
+        "native": {
+          "bjz": "Belize"
+        }
+      },
+      "en": {
+        "native": {
+          "en": "Belize"
+        }
+      },
+      "es": {
+        "native": {
+          "es": "Belice"
+        }
+      }
+    },
+    "phone": "+501"
+  },
+  "message": "success",
+  "status": 200
+}

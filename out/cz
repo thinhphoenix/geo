@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cz.svg",
+    "name": {
+      "native": {
+        "cs": "Česko",
+        "sk": "Česko"
+      }
+    },
+    "lang": {
+      "cs": {
+        "native": {
+          "cs": "Česko"
+        }
+      },
+      "sk": {
+        "native": {
+          "sk": "Česko"
+        }
+      }
+    },
+    "phone": "+420"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/au.svg",
+    "name": {
+      "native": {
+        "en": "Australia"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Australia"
+        }
+      }
+    },
+    "phone": "+61"
+  },
+  "message": "success",
+  "status": 200
+}

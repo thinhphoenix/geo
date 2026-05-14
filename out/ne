@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ne.svg",
+    "name": {
+      "native": {
+        "fr": "Niger"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Niger"
+        }
+      }
+    },
+    "phone": "+227"
+  },
+  "message": "success",
+  "status": 200
+}

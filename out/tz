@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tz.svg",
+    "name": {
+      "native": {
+        "en": "Tanzania",
+        "sw": "Tanzania"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Tanzania"
+        }
+      },
+      "sw": {
+        "native": {
+          "sw": "Tanzania"
+        }
+      }
+    },
+    "phone": "+255"
+  },
+  "message": "success",
+  "status": 200
+}

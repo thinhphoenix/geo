@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tf.svg",
+    "name": {
+      "native": {
+        "fr": "Terres australes et antarctiques françaises"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Terres australes et antarctiques françaises"
+        }
+      }
+    },
+    "phone": "+262"
+  },
+  "message": "success",
+  "status": 200
+}

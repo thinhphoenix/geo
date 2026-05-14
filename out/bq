@@ -1,0 +1,31 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bq.svg",
+    "name": {
+      "native": {
+        "nl": "Caribisch Nederland",
+        "pap": "Boneiru, Sint Eustatius y Saba"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "English"
+        }
+      },
+      "nl": {
+        "native": {
+          "nl": "Caribisch Nederland"
+        }
+      },
+      "pap": {
+        "native": {
+          "pap": "Boneiru, Sint Eustatius y Saba"
+        }
+      }
+    },
+    "phone": "+599"
+  },
+  "message": "success",
+  "status": 200
+}

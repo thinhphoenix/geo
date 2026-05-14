@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/nu.svg",
+    "name": {
+      "native": {
+        "en": "Niue",
+        "niu": "Niuē"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Niue"
+        }
+      },
+      "niu": {
+        "native": {
+          "niu": "Niuē"
+        }
+      }
+    },
+    "phone": "+683"
+  },
+  "message": "success",
+  "status": 200
+}

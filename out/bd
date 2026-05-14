@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bd.svg",
+    "name": {
+      "native": {
+        "bn": "বাংলাদেশ"
+      }
+    },
+    "lang": {
+      "bn": {
+        "native": {
+          "bn": "বাংলাদেশ"
+        }
+      }
+    },
+    "phone": "+880"
+  },
+  "message": "success",
+  "status": 200
+}

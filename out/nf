@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/nf.svg",
+    "name": {
+      "native": {
+        "en": "Norfolk Island",
+        "pih": "Norf'k Ailen"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Norfolk Island"
+        }
+      },
+      "pih": {
+        "native": {
+          "pih": "Norf'k Ailen"
+        }
+      }
+    },
+    "phone": "+672"
+  },
+  "message": "success",
+  "status": 200
+}

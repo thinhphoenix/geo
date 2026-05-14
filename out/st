@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/st.svg",
+    "name": {
+      "native": {
+        "pt": "São Tomé e Príncipe"
+      }
+    },
+    "lang": {
+      "pt": {
+        "native": {
+          "pt": "São Tomé e Príncipe"
+        }
+      }
+    },
+    "phone": "+239"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sm.svg",
+    "name": {
+      "native": {
+        "it": "San Marino"
+      }
+    },
+    "lang": {
+      "it": {
+        "native": {
+          "it": "San Marino"
+        }
+      }
+    },
+    "phone": "+378"
+  },
+  "message": "success",
+  "status": 200
+}

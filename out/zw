@@ -1,0 +1,104 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/zw.svg",
+    "name": {
+      "native": {
+        "bwg": "Zimbabwe",
+        "en": "Zimbabwe",
+        "kck": "Zimbabwe",
+        "khi": "Zimbabwe",
+        "ndc": "Zimbabwe",
+        "nde": "Zimbabwe",
+        "nya": "Zimbabwe",
+        "sna": "Zimbabwe",
+        "sot": "Zimbabwe",
+        "toi": "Zimbabwe",
+        "tsn": "Zimbabwe",
+        "tso": "Zimbabwe",
+        "ven": "Zimbabwe",
+        "xho": "Zimbabwe",
+        "zib": "Zimbabwe"
+      }
+    },
+    "lang": {
+      "bwg": {
+        "native": {
+          "bwg": "Zimbabwe"
+        }
+      },
+      "en": {
+        "native": {
+          "en": "Zimbabwe"
+        }
+      },
+      "kck": {
+        "native": {
+          "kck": "Zimbabwe"
+        }
+      },
+      "khi": {
+        "native": {
+          "khi": "Zimbabwe"
+        }
+      },
+      "ndc": {
+        "native": {
+          "ndc": "Zimbabwe"
+        }
+      },
+      "nde": {
+        "native": {
+          "nde": "Zimbabwe"
+        }
+      },
+      "nya": {
+        "native": {
+          "nya": "Zimbabwe"
+        }
+      },
+      "sna": {
+        "native": {
+          "sna": "Zimbabwe"
+        }
+      },
+      "sot": {
+        "native": {
+          "sot": "Zimbabwe"
+        }
+      },
+      "toi": {
+        "native": {
+          "toi": "Zimbabwe"
+        }
+      },
+      "tsn": {
+        "native": {
+          "tsn": "Zimbabwe"
+        }
+      },
+      "tso": {
+        "native": {
+          "tso": "Zimbabwe"
+        }
+      },
+      "ven": {
+        "native": {
+          "ven": "Zimbabwe"
+        }
+      },
+      "xho": {
+        "native": {
+          "xho": "Zimbabwe"
+        }
+      },
+      "zib": {
+        "native": {
+          "zib": "Zimbabwe"
+        }
+      }
+    },
+    "phone": "+263"
+  },
+  "message": "success",
+  "status": 200
+}

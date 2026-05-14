@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/az.svg",
+    "name": {
+      "native": {
+        "az": "Azərbaycan",
+        "ru": "Азербайджан"
+      }
+    },
+    "lang": {
+      "az": {
+        "native": {
+          "az": "Azərbaycan"
+        }
+      },
+      "ru": {
+        "native": {
+          "ru": "Азербайджан"
+        }
+      }
+    },
+    "phone": "+994"
+  },
+  "message": "success",
+  "status": 200
+}

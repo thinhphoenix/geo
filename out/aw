@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/aw.svg",
+    "name": {
+      "native": {
+        "nl": "Aruba",
+        "pap": "Aruba"
+      }
+    },
+    "lang": {
+      "nl": {
+        "native": {
+          "nl": "Aruba"
+        }
+      },
+      "pap": {
+        "native": {
+          "pap": "Aruba"
+        }
+      }
+    },
+    "phone": "+297"
+  },
+  "message": "success",
+  "status": 200
+}

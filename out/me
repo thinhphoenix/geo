@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/me.svg",
+    "name": {
+      "native": {
+        "cnr": "Црна Гора"
+      }
+    },
+    "lang": {
+      "cnr": {
+        "native": {
+          "cnr": "Црна Гора"
+        }
+      }
+    },
+    "phone": "+382"
+  },
+  "message": "success",
+  "status": 200
+}

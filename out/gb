@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gb.svg",
+    "name": {
+      "native": {
+        "en": "United Kingdom"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "United Kingdom"
+        }
+      }
+    },
+    "phone": "+44"
+  },
+  "message": "success",
+  "status": 200
+}

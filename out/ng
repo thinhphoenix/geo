@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ng.svg",
+    "name": {
+      "native": {
+        "en": "Nigeria"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Nigeria"
+        }
+      }
+    },
+    "phone": "+234"
+  },
+  "message": "success",
+  "status": 200
+}

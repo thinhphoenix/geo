@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/re.svg",
+    "name": {
+      "native": {
+        "fr": "La Réunion"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "La Réunion"
+        }
+      }
+    },
+    "phone": "+262"
+  },
+  "message": "success",
+  "status": 200
+}

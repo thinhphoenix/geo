@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/kg.svg",
+    "name": {
+      "native": {
+        "ky": "Кыргызстан",
+        "ru": "Киргизия"
+      }
+    },
+    "lang": {
+      "ky": {
+        "native": {
+          "ky": "Кыргызстан"
+        }
+      },
+      "ru": {
+        "native": {
+          "ru": "Киргизия"
+        }
+      }
+    },
+    "phone": "+996"
+  },
+  "message": "success",
+  "status": 200
+}

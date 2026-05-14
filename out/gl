@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gl.svg",
+    "name": {
+      "native": {
+        "kal": "Kalaallit Nunaat"
+      }
+    },
+    "lang": {
+      "kal": {
+        "native": {
+          "kal": "Kalaallit Nunaat"
+        }
+      }
+    },
+    "phone": "+299"
+  },
+  "message": "success",
+  "status": 200
+}

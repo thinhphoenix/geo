@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/kh.svg",
+    "name": {
+      "native": {
+        "km": "Kâmpŭchéa"
+      }
+    },
+    "lang": {
+      "km": {
+        "native": {
+          "km": "Kâmpŭchéa"
+        }
+      }
+    },
+    "phone": "+855"
+  },
+  "message": "success",
+  "status": 200
+}

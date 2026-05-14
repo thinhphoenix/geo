@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ke.svg",
+    "name": {
+      "native": {
+        "en": "Kenya",
+        "sw": "Kenya"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Kenya"
+        }
+      },
+      "sw": {
+        "native": {
+          "sw": "Kenya"
+        }
+      }
+    },
+    "phone": "+254"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ar.svg",
+    "name": {
+      "native": {
+        "grn": "Argentina",
+        "es": "Argentina"
+      }
+    },
+    "lang": {
+      "grn": {
+        "native": {
+          "grn": "Argentina"
+        }
+      },
+      "es": {
+        "native": {
+          "es": "Argentina"
+        }
+      }
+    },
+    "phone": "+54"
+  },
+  "message": "success",
+  "status": 200
+}

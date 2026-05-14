@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bj.svg",
+    "name": {
+      "native": {
+        "fr": "Bénin"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Bénin"
+        }
+      }
+    },
+    "phone": "+229"
+  },
+  "message": "success",
+  "status": 200
+}

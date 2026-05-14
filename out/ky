@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ky.svg",
+    "name": {
+      "native": {
+        "en": "Cayman Islands"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Cayman Islands"
+        }
+      }
+    },
+    "phone": "+1345"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bv.svg",
+    "name": {
+      "native": {
+        "no": "Bouvetøya"
+      }
+    },
+    "lang": {
+      "no": {
+        "native": {
+          "no": "Bouvetøya"
+        }
+      }
+    },
+    "phone": "+47"
+  },
+  "message": "success",
+  "status": 200
+}

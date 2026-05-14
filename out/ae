@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ae.svg",
+    "name": {
+      "native": {
+        "ar": "الإمارات"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "الإمارات"
+        }
+      }
+    },
+    "phone": "+971"
+  },
+  "message": "success",
+  "status": 200
+}

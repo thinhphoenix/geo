@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sz.svg",
+    "name": {
+      "native": {
+        "en": "Eswatini",
+        "ssw": "eSwatini"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Eswatini"
+        }
+      },
+      "ssw": {
+        "native": {
+          "ssw": "eSwatini"
+        }
+      }
+    },
+    "phone": "+268"
+  },
+  "message": "success",
+  "status": 200
+}

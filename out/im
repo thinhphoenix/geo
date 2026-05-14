@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/im.svg",
+    "name": {
+      "native": {
+        "en": "Isle of Man",
+        "glv": "Mannin"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Isle of Man"
+        }
+      },
+      "glv": {
+        "native": {
+          "glv": "Mannin"
+        }
+      }
+    },
+    "phone": "+44"
+  },
+  "message": "success",
+  "status": 200
+}

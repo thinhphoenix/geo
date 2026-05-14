@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sr.svg",
+    "name": {
+      "native": {
+        "nl": "Suriname"
+      }
+    },
+    "lang": {
+      "nl": {
+        "native": {
+          "nl": "Suriname"
+        }
+      }
+    },
+    "phone": "+597"
+  },
+  "message": "success",
+  "status": 200
+}

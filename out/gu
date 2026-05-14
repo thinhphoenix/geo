@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gu.svg",
+    "name": {
+      "native": {
+        "cha": "Guåhån",
+        "en": "Guam",
+        "es": "Guam"
+      }
+    },
+    "lang": {
+      "cha": {
+        "native": {
+          "cha": "Guåhån"
+        }
+      },
+      "en": {
+        "native": {
+          "en": "Guam"
+        }
+      },
+      "es": {
+        "native": {
+          "es": "Guam"
+        }
+      }
+    },
+    "phone": "+1671"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/lb.svg",
+    "name": {
+      "native": {
+        "ar": "لبنان",
+        "fr": "Liban"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "لبنان"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Liban"
+        }
+      }
+    },
+    "phone": "+961"
+  },
+  "message": "success",
+  "status": 200
+}

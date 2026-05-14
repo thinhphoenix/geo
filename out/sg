@@ -1,0 +1,38 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sg.svg",
+    "name": {
+      "native": {
+        "en": "Singapore",
+        "ms": "Singapura",
+        "ta": "சிங்கப்பூர்",
+        "zh": "新加坡"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Singapore"
+        }
+      },
+      "ms": {
+        "native": {
+          "ms": "Singapura"
+        }
+      },
+      "ta": {
+        "native": {
+          "ta": "சிங்கப்பூர்"
+        }
+      },
+      "zh": {
+        "native": {
+          "zh": "新加坡"
+        }
+      }
+    },
+    "phone": "+65"
+  },
+  "message": "success",
+  "status": 200
+}

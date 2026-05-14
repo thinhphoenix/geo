@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/um.svg",
+    "name": {
+      "native": {
+        "en": "United States Minor Outlying Islands"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "United States Minor Outlying Islands"
+        }
+      }
+    },
+    "phone": "+268"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/do.svg",
+    "name": {
+      "native": {
+        "es": "República Dominicana"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "República Dominicana"
+        }
+      }
+    },
+    "phone": "+1"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/xk.svg",
+    "name": {
+      "native": {
+        "sq": "Kosova",
+        "sr": "Косово"
+      }
+    },
+    "lang": {
+      "sq": {
+        "native": {
+          "sq": "Kosova"
+        }
+      },
+      "sr": {
+        "native": {
+          "sr": "Косово"
+        }
+      }
+    },
+    "phone": "+383"
+  },
+  "message": "success",
+  "status": 200
+}

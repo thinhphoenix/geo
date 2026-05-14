@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/vn.svg",
+    "name": {
+      "native": {
+        "vi": "Việt Nam"
+      }
+    },
+    "lang": {
+      "vi": {
+        "native": {
+          "vi": "Tiếng Việt"
+        }
+      }
+    },
+    "phone": "+84"
+  },
+  "message": "success",
+  "status": 200
+}

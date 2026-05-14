@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/pg.svg",
+    "name": {
+      "native": {
+        "en": "Papua New Guinea",
+        "hmo": "Papua Niu Gini",
+        "tpi": "Papua Niugini"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Papua New Guinea"
+        }
+      },
+      "hmo": {
+        "native": {
+          "hmo": "Papua Niu Gini"
+        }
+      },
+      "tpi": {
+        "native": {
+          "tpi": "Papua Niugini"
+        }
+      }
+    },
+    "phone": "+675"
+  },
+  "message": "success",
+  "status": 200
+}

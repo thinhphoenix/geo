@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/hu.svg",
+    "name": {
+      "native": {
+        "hu": "Magyarország"
+      }
+    },
+    "lang": {
+      "hu": {
+        "native": {
+          "hu": "Magyarország"
+        }
+      }
+    },
+    "phone": "+36"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cl.svg",
+    "name": {
+      "native": {
+        "es": "Chile"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "Chile"
+        }
+      }
+    },
+    "phone": "+56"
+  },
+  "message": "success",
+  "status": 200
+}

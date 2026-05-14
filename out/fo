@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/fo.svg",
+    "name": {
+      "native": {
+        "da": "Færøerne",
+        "fao": "Føroyar"
+      }
+    },
+    "lang": {
+      "da": {
+        "native": {
+          "da": "Færøerne"
+        }
+      },
+      "fao": {
+        "native": {
+          "fao": "Føroyar"
+        }
+      }
+    },
+    "phone": "+298"
+  },
+  "message": "success",
+  "status": 200
+}

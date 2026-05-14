@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/fi.svg",
+    "name": {
+      "native": {
+        "fi": "Suomi",
+        "sv": "Finland"
+      }
+    },
+    "lang": {
+      "fi": {
+        "native": {
+          "fi": "Suomi"
+        }
+      },
+      "sv": {
+        "native": {
+          "sv": "Finland"
+        }
+      }
+    },
+    "phone": "+358"
+  },
+  "message": "success",
+  "status": 200
+}

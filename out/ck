@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ck.svg",
+    "name": {
+      "native": {
+        "en": "Cook Islands",
+        "rar": "Kūki 'Āirani"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Cook Islands"
+        }
+      },
+      "rar": {
+        "native": {
+          "rar": "Kūki 'Āirani"
+        }
+      }
+    },
+    "phone": "+682"
+  },
+  "message": "success",
+  "status": 200
+}

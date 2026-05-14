@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tt.svg",
+    "name": {
+      "native": {
+        "en": "Trinidad and Tobago"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Trinidad and Tobago"
+        }
+      }
+    },
+    "phone": "+1868"
+  },
+  "message": "success",
+  "status": 200
+}

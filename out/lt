@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/lt.svg",
+    "name": {
+      "native": {
+        "lt": "Lietuva"
+      }
+    },
+    "lang": {
+      "lt": {
+        "native": {
+          "lt": "Lietuva"
+        }
+      }
+    },
+    "phone": "+370"
+  },
+  "message": "success",
+  "status": 200
+}

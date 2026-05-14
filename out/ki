@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ki.svg",
+    "name": {
+      "native": {
+        "en": "Kiribati",
+        "gil": "Kiribati"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Kiribati"
+        }
+      },
+      "gil": {
+        "native": {
+          "gil": "Kiribati"
+        }
+      }
+    },
+    "phone": "+686"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gf.svg",
+    "name": {
+      "native": {
+        "fr": "Guyane française"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Guyane française"
+        }
+      }
+    },
+    "phone": "+594"
+  },
+  "message": "success",
+  "status": 200
+}

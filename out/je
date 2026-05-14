@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/je.svg",
+    "name": {
+      "native": {
+        "en": "Jersey",
+        "fr": "Jersey",
+        "nrf": "Jèrri"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Jersey"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Jersey"
+        }
+      },
+      "nrf": {
+        "native": {
+          "nrf": "Jèrri"
+        }
+      }
+    },
+    "phone": "+44"
+  },
+  "message": "success",
+  "status": 200
+}

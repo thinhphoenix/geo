@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ph.svg",
+    "name": {
+      "native": {
+        "en": "Philippines",
+        "fil": "Pilipinas"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Philippines"
+        }
+      },
+      "fil": {
+        "native": {
+          "fil": "Pilipinas"
+        }
+      }
+    },
+    "phone": "+63"
+  },
+  "message": "success",
+  "status": 200
+}

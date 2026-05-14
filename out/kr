@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/kr.svg",
+    "name": {
+      "native": {
+        "ko": "한국"
+      }
+    },
+    "lang": {
+      "ko": {
+        "native": {
+          "ko": "한국"
+        }
+      }
+    },
+    "phone": "+82"
+  },
+  "message": "success",
+  "status": 200
+}

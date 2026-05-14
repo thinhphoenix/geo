@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sh.svg",
+    "name": {
+      "native": {
+        "en": "Saint Helena, Ascension and Tristan da Cunha"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Saint Helena, Ascension and Tristan da Cunha"
+        }
+      }
+    },
+    "phone": "+2"
+  },
+  "message": "success",
+  "status": 200
+}

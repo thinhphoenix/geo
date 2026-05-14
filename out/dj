@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/dj.svg",
+    "name": {
+      "native": {
+        "ar": "جيبوتي",
+        "fr": "Djibouti"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "جيبوتي"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Djibouti"
+        }
+      }
+    },
+    "phone": "+253"
+  },
+  "message": "success",
+  "status": 200
+}

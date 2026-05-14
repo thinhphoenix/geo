@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tr.svg",
+    "name": {
+      "native": {
+        "tr": "Türkiye"
+      }
+    },
+    "lang": {
+      "tr": {
+        "native": {
+          "tr": "Türkiye"
+        }
+      }
+    },
+    "phone": "+90"
+  },
+  "message": "success",
+  "status": 200
+}

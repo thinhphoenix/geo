@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ru.svg",
+    "name": {
+      "native": {
+        "ru": "Россия"
+      }
+    },
+    "lang": {
+      "ru": {
+        "native": {
+          "ru": "Россия"
+        }
+      }
+    },
+    "phone": "+7"
+  },
+  "message": "success",
+  "status": 200
+}

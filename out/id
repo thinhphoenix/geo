@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/id.svg",
+    "name": {
+      "native": {
+        "id": "Indonesia"
+      }
+    },
+    "lang": {
+      "id": {
+        "native": {
+          "id": "Indonesia"
+        }
+      }
+    },
+    "phone": "+62"
+  },
+  "message": "success",
+  "status": 200
+}

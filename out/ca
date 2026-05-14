@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ca.svg",
+    "name": {
+      "native": {
+        "en": "Canada",
+        "fr": "Canada"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Canada"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Canada"
+        }
+      }
+    },
+    "phone": "+1"
+  },
+  "message": "success",
+  "status": 200
+}

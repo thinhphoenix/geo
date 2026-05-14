@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bw.svg",
+    "name": {
+      "native": {
+        "en": "Botswana",
+        "tsn": "Botswana"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Botswana"
+        }
+      },
+      "tsn": {
+        "native": {
+          "tsn": "Botswana"
+        }
+      }
+    },
+    "phone": "+267"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ai.svg",
+    "name": {
+      "native": {
+        "en": "Anguilla"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Anguilla"
+        }
+      }
+    },
+    "phone": "+1264"
+  },
+  "message": "success",
+  "status": 200
+}

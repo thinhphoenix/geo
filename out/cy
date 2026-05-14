@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/cy.svg",
+    "name": {
+      "native": {
+        "el": "Κύπρος",
+        "tr": "Kıbrıs"
+      }
+    },
+    "lang": {
+      "el": {
+        "native": {
+          "el": "Κύπρος"
+        }
+      },
+      "tr": {
+        "native": {
+          "tr": "Kıbrıs"
+        }
+      }
+    },
+    "phone": "+357"
+  },
+  "message": "success",
+  "status": 200
+}

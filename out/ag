@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ag.svg",
+    "name": {
+      "native": {
+        "en": "Antigua and Barbuda"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Antigua and Barbuda"
+        }
+      }
+    },
+    "phone": "+1268"
+  },
+  "message": "success",
+  "status": 200
+}

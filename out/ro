@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ro.svg",
+    "name": {
+      "native": {
+        "ro": "România"
+      }
+    },
+    "lang": {
+      "ro": {
+        "native": {
+          "ro": "România"
+        }
+      }
+    },
+    "phone": "+40"
+  },
+  "message": "success",
+  "status": 200
+}

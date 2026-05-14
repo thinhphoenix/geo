@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ir.svg",
+    "name": {
+      "native": {
+        "fa": "ایران"
+      }
+    },
+    "lang": {
+      "fa": {
+        "native": {
+          "fa": "ایران"
+        }
+      }
+    },
+    "phone": "+98"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/dk.svg",
+    "name": {
+      "native": {
+        "da": "Danmark"
+      }
+    },
+    "lang": {
+      "da": {
+        "native": {
+          "da": "Danmark"
+        }
+      }
+    },
+    "phone": "+45"
+  },
+  "message": "success",
+  "status": 200
+}

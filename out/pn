@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/pn.svg",
+    "name": {
+      "native": {
+        "en": "Pitcairn Islands"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Pitcairn Islands"
+        }
+      }
+    },
+    "phone": "+64"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bn.svg",
+    "name": {
+      "native": {
+        "ms": "Negara Brunei Darussalam"
+      }
+    },
+    "lang": {
+      "ms": {
+        "native": {
+          "ms": "Negara Brunei Darussalam"
+        }
+      }
+    },
+    "phone": "+673"
+  },
+  "message": "success",
+  "status": 200
+}

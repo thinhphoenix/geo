@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/io.svg",
+    "name": {
+      "native": {
+        "en": "British Indian Ocean Territory"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "British Indian Ocean Territory"
+        }
+      }
+    },
+    "phone": "+246"
+  },
+  "message": "success",
+  "status": 200
+}

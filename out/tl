@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tl.svg",
+    "name": {
+      "native": {
+        "pt": "Timor-Leste",
+        "tet": "Timór-Leste"
+      }
+    },
+    "lang": {
+      "pt": {
+        "native": {
+          "pt": "Timor-Leste"
+        }
+      },
+      "tet": {
+        "native": {
+          "tet": "Timór-Leste"
+        }
+      }
+    },
+    "phone": "+670"
+  },
+  "message": "success",
+  "status": 200
+}

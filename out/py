@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/py.svg",
+    "name": {
+      "native": {
+        "grn": "Paraguái",
+        "es": "Paraguay"
+      }
+    },
+    "lang": {
+      "grn": {
+        "native": {
+          "grn": "Paraguái"
+        }
+      },
+      "es": {
+        "native": {
+          "es": "Paraguay"
+        }
+      }
+    },
+    "phone": "+595"
+  },
+  "message": "success",
+  "status": 200
+}

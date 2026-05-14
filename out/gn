@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gn.svg",
+    "name": {
+      "native": {
+        "fr": "Guinée"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Guinée"
+        }
+      }
+    },
+    "phone": "+224"
+  },
+  "message": "success",
+  "status": 200
+}

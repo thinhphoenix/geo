@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/lk.svg",
+    "name": {
+      "native": {
+        "si": "ශ්‍රී ලංකාව",
+        "ta": "இலங்கை"
+      }
+    },
+    "lang": {
+      "si": {
+        "native": {
+          "si": "ශ්‍රී ලංකාව"
+        }
+      },
+      "ta": {
+        "native": {
+          "ta": "இலங்கை"
+        }
+      }
+    },
+    "phone": "+94"
+  },
+  "message": "success",
+  "status": 200
+}

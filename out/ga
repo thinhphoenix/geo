@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ga.svg",
+    "name": {
+      "native": {
+        "fr": "Gabon"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Gabon"
+        }
+      }
+    },
+    "phone": "+241"
+  },
+  "message": "success",
+  "status": 200
+}

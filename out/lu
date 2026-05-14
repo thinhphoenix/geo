@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/lu.svg",
+    "name": {
+      "native": {
+        "de": "Luxemburg",
+        "fr": "Luxembourg",
+        "ltz": "Lëtzebuerg"
+      }
+    },
+    "lang": {
+      "de": {
+        "native": {
+          "de": "Luxemburg"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Luxembourg"
+        }
+      },
+      "ltz": {
+        "native": {
+          "ltz": "Lëtzebuerg"
+        }
+      }
+    },
+    "phone": "+352"
+  },
+  "message": "success",
+  "status": 200
+}

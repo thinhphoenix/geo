@@ -1,0 +1,38 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/bo.svg",
+    "name": {
+      "native": {
+        "aym": "Wuliwya",
+        "grn": "Volívia",
+        "que": "Buliwya",
+        "es": "Bolivia"
+      }
+    },
+    "lang": {
+      "aym": {
+        "native": {
+          "aym": "Wuliwya"
+        }
+      },
+      "grn": {
+        "native": {
+          "grn": "Volívia"
+        }
+      },
+      "que": {
+        "native": {
+          "que": "Buliwya"
+        }
+      },
+      "es": {
+        "native": {
+          "es": "Bolivia"
+        }
+      }
+    },
+    "phone": "+591"
+  },
+  "message": "success",
+  "status": 200
+}

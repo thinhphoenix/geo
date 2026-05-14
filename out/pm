@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/pm.svg",
+    "name": {
+      "native": {
+        "fr": "Saint-Pierre-et-Miquelon"
+      }
+    },
+    "lang": {
+      "fr": {
+        "native": {
+          "fr": "Saint-Pierre-et-Miquelon"
+        }
+      }
+    },
+    "phone": "+508"
+  },
+  "message": "success",
+  "status": 200
+}

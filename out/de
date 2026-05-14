@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/de.svg",
+    "name": {
+      "native": {
+        "de": "Deutschland"
+      }
+    },
+    "lang": {
+      "de": {
+        "native": {
+          "de": "Deutschland"
+        }
+      }
+    },
+    "phone": "+49"
+  },
+  "message": "success",
+  "status": 200
+}

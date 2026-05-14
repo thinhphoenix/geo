@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/gd.svg",
+    "name": {
+      "native": {
+        "en": "Grenada"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Grenada"
+        }
+      }
+    },
+    "phone": "+1473"
+  },
+  "message": "success",
+  "status": 200
+}

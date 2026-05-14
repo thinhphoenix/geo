@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/tk.svg",
+    "name": {
+      "native": {
+        "en": "Tokelau",
+        "smo": "Tokelau",
+        "tkl": "Tokelau"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Tokelau"
+        }
+      },
+      "smo": {
+        "native": {
+          "smo": "Tokelau"
+        }
+      },
+      "tkl": {
+        "native": {
+          "tkl": "Tokelau"
+        }
+      }
+    },
+    "phone": "+690"
+  },
+  "message": "success",
+  "status": 200
+}

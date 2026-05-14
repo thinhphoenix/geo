@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/pw.svg",
+    "name": {
+      "native": {
+        "en": "Palau",
+        "pau": "Belau"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Palau"
+        }
+      },
+      "pau": {
+        "native": {
+          "pau": "Belau"
+        }
+      }
+    },
+    "phone": "+680"
+  },
+  "message": "success",
+  "status": 200
+}

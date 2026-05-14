@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sy.svg",
+    "name": {
+      "native": {
+        "ar": "سوريا"
+      }
+    },
+    "lang": {
+      "ar": {
+        "native": {
+          "ar": "سوريا"
+        }
+      }
+    },
+    "phone": "+963"
+  },
+  "message": "success",
+  "status": 200
+}

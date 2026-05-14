@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/pt.svg",
+    "name": {
+      "native": {
+        "pt": "Portugal"
+      }
+    },
+    "lang": {
+      "pt": {
+        "native": {
+          "pt": "Portugal"
+        }
+      }
+    },
+    "phone": "+351"
+  },
+  "message": "success",
+  "status": 200
+}

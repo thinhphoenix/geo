@@ -1,0 +1,26 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/ie.svg",
+    "name": {
+      "native": {
+        "en": "Ireland",
+        "ga": "Éire"
+      }
+    },
+    "lang": {
+      "en": {
+        "native": {
+          "en": "Ireland"
+        }
+      },
+      "ga": {
+        "native": {
+          "ga": "Éire"
+        }
+      }
+    },
+    "phone": "+353"
+  },
+  "message": "success",
+  "status": 200
+}

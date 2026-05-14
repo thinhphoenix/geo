@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/et.svg",
+    "name": {
+      "native": {
+        "am": "ኢትዮጵያ"
+      }
+    },
+    "lang": {
+      "am": {
+        "native": {
+          "am": "ኢትዮጵያ"
+        }
+      }
+    },
+    "phone": "+251"
+  },
+  "message": "success",
+  "status": 200
+}

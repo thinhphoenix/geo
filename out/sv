@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sv.svg",
+    "name": {
+      "native": {
+        "es": "El Salvador"
+      }
+    },
+    "lang": {
+      "es": {
+        "native": {
+          "es": "El Salvador"
+        }
+      }
+    },
+    "phone": "+503"
+  },
+  "message": "success",
+  "status": 200
+}

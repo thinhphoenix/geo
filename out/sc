@@ -1,0 +1,32 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/sc.svg",
+    "name": {
+      "native": {
+        "crs": "Sesel",
+        "en": "Seychelles",
+        "fr": "Seychelles"
+      }
+    },
+    "lang": {
+      "crs": {
+        "native": {
+          "crs": "Sesel"
+        }
+      },
+      "en": {
+        "native": {
+          "en": "Seychelles"
+        }
+      },
+      "fr": {
+        "native": {
+          "fr": "Seychelles"
+        }
+      }
+    },
+    "phone": "+248"
+  },
+  "message": "success",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "flag": "https://flagcdn.com/lv.svg",
+    "name": {
+      "native": {
+        "lv": "Latvija"
+      }
+    },
+    "lang": {
+      "lv": {
+        "native": {
+          "lv": "Latvija"
+        }
+      }
+    },
+    "phone": "+371"
+  },
+  "message": "success",
+  "status": 200
+}
